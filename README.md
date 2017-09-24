@@ -1,9 +1,10 @@
 # Awesome-Embedded
-On the way to be a full-stack embedded software engineer
+A curated list of awesome embedded resource.
 
 ## Interview
 
 * [Questions which are frequently asked in an interview.](https://github.com/Embedded-Systems-Guide/interview-questions)
+> On the way to be a full-stack embedded software engineer.
 
 ## Embedded Software Skill
 
