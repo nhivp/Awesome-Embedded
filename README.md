@@ -10,7 +10,11 @@ A curated list of awesome embedded resource.
 
 * [Skills/Knowledge required to become a champion Embedded Software Developer.](https://github.com/Embedded-Systems-Guide/embedded-software-skills)
 
+## Common
+
 ## Microcontroller
+
+* [Linker Command File Primer](http://processors.wiki.ti.com/index.php/Linker_Command_File_Primer)
 
 ## Linux Programming
 
@@ -22,3 +26,5 @@ A curated list of awesome embedded resource.
 > Awesome Cheat Sheets for Developer Utility, like Git, Vim , Tmux, SublimeText, Markdown, Shell.
 
 * [Vim Config for Reading Linux Kernel Source Code](https://github.com/mintisan/oh-my-vim)
+
+## [Books for embedded system developers](http://www.ganssle.com/bkreviews.htm)
