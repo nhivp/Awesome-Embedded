@@ -12,6 +12,8 @@ A curated list of awesome embedded resource.
 
 ## Common
 
+* [Integer size in C on 32-bit and 64-bit system](https://usrmisc.wordpress.com/2012/12/27/integer-sizes-in-c-on-32-bit-and-64-bit-linux/)
+
 ## Microcontroller
 
 * [Linker Command File Primer](http://processors.wiki.ti.com/index.php/Linker_Command_File_Primer)
