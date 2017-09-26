@@ -17,6 +17,7 @@ A curated list of awesome embedded resource.
 ## Microcontroller
 
 * [Linker Command File Primer](http://processors.wiki.ti.com/index.php/Linker_Command_File_Primer)
+* [MSP430-GCC](http://www.simplyembedded.org/tutorials/setting-up-a-virtual-machine/)
 
 ## Linux Programming
 
