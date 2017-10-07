@@ -23,6 +23,11 @@ A curated list of awesome embedded resource.
 
 * [Writing device drivers in Linux](http://freesoftwaremagazine.com/articles/drivers_linux/)
 
+## OS
+
+* [ROS](http://www.ros.org/)
+* [freeRTOS](freertos.org)
+
 ## Tips & tricks
 
 * [Awesome Cheat Sheets](https://github.com/mintisan/awesome-cheat-sheets/blob/master/README.md)
