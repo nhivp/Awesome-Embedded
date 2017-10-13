@@ -4,12 +4,12 @@ A curated list of awesome embedded resource.
 Table of content
 
 * [Interview](#Interview)
-* [Embedded Software Skill](#Embedded Software Skill)
+* [Embedded Software Skill](#Embedded-Software-Skill)
 * [Common](#Common)
 * [Microcontroller](#Microcontroller)
-* [Linux Programming](#Linux Programming)
+* [Linux Programming](#Linux-Programming)
 * [Operating System](#OS)
-* [Tips & tricks](#Tips & tricks)
+* [Tips & tricks](#Tips-&-tricks)
 
 ## Interview
 
