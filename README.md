@@ -1,6 +1,16 @@
 # Awesome-Embedded
 A curated list of awesome embedded resource.
 
+Table of content
+
+* [Interview](#Interview)
+* [Embedded Software Skill](#Embedded Software Skill)
+* [Common](#Common)
+* [Microcontroller](#Microcontroller)
+* [Linux Programming](#Linux Programming)
+* [Operating System](#OS)
+* [Tips & tricks](#Tips & tricks)
+
 ## Interview
 
 * [Questions which are frequently asked in an interview.](https://github.com/Embedded-Systems-Guide/interview-questions)
@@ -13,6 +23,8 @@ A curated list of awesome embedded resource.
 ## Common
 
 * [Integer size in C on 32-bit and 64-bit system](https://usrmisc.wordpress.com/2012/12/27/integer-sizes-in-c-on-32-bit-and-64-bit-linux/)
+* [TeraTerm - TTL command reference](http://ttssh2.osdn.jp/manual/en/macro/command/index.html)
+* [TeraTerm Scripts](http://processors.wiki.ti.com/index.php/Teraterm_Scripts)
 
 ## Microcontroller
 
