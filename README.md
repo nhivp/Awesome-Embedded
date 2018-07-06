@@ -111,6 +111,8 @@ Table of content
 
 * [BeagleBone Black I2C References](https://datko.net/2013/11/03/bbb_i2c/)
 * [Learning BeagleBone Python Programming](https://hub.packtpub.com/learning-beaglebone-python-programming/)
+* [Simple implementation of an OS for the BeagleBoard C4 with ARMv7 A8 processor. ](https://github.com/Oxydation/MinionOS)
+* [Various projects that utilize low level hardware instructions to interface with leds, speaker output and joystick input. ](https://github.com/travelln/beaglebone-projects)
 
 ## Linux Programming
 
