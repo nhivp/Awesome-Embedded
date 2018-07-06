@@ -44,6 +44,14 @@ Table of content
 * [The C build process](https://blog.feabhas.com/2012/06/the-c-build-process/)
 * [Building Bare-Metal ARM Systems with GNU](https://www.embedded.com/design/mcus-processors-and-socs/4026111/Building-Bare-Metal-ARM-Systems-with-GNU-Part-9)
 * [ELF – Executable and Linkable Format](https://2wisebit.wordpress.com/2018/06/08/elf-executable-and-linkable-format/)
+* [Toolchains](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs373/toolchain-notes.pdf)
+* [What is an application binary interface (ABI)?](https://stackoverflow.com/questions/2171177/what-is-an-application-binary-interface-abi)
+* [ ARM Cortex M4 Blink Example (Linker Script)](http://robotics.mcmanis.com/src/arm-blink/linker-script.html)
+* [A Sample Linker Script](http://hertaville.com/a-sample-linker-script.html)
+* [Linking and Loading](http://www.iecc.com/linker/linker01.html)
+* [Embedded Software _ Getting started](http://www2.thu.edu.tw/~emtools/DOE_project/NCCU/embedded%20system/ESD_06_GettingStarted.pdf)
+* [How to convert from an armlink scatter file to a GNU ld linker script](https://www.mayrhofer.eu.org/node/24)
+* [Using the GNU Linker](https://www.math.utah.edu/docs/info/ld_3.html)
 
 ## MCU programming
 
@@ -107,6 +115,7 @@ Table of content
 ## Assembly
 
 * [GCC-Inline-Assembly-HOWTO](https://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html)
+* [Assembly programming](https://courses.cs.washington.edu/courses/cse351/17sp/lectures/CSE351-L07-asm-I_17sp-ink.pdf)
 
 ## RTOS
 
