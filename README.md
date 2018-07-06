@@ -7,6 +7,11 @@ Table of content
 * [Embedded Software Skill](#embedded-software-skill)
 * [Common](#common)
 * [Microcontroller](#mcu-programming)
+    * [TM4C123](#tm4c123)
+    * [STM32](#stm32)
+    * [MSP430](#msp430)
+    * [MSP432](#msp432)
+    * [STM8](#stm8)
 * [Raspberry](#raspberry)
 * [Bealgebone](#beaglebone)
 * [Linux Programming](#linux-programming)
@@ -28,13 +33,29 @@ Table of content
 * [Integer size in C on 32-bit and 64-bit system](https://usrmisc.wordpress.com/2012/12/27/integer-sizes-in-c-on-32-bit-and-64-bit-linux/)
 * [TeraTerm - TTL command reference](http://ttssh2.osdn.jp/manual/en/macro/command/index.html)
 * [TeraTerm Scripts](http://processors.wiki.ti.com/index.php/Teraterm_Scripts)
+* [Linker Command File Primer](http://processors.wiki.ti.com/index.php/Linker_Command_File_Primer)
 
 ## MCU programming
 
-* [Linker Command File Primer](http://processors.wiki.ti.com/index.php/Linker_Command_File_Primer)
+### MSP430
 * [MSP430-GCC](http://www.simplyembedded.org/tutorials/setting-up-a-virtual-machine/)
-* [Computer Systems](http://cs107e.github.io/)
-* 
+
+### TM4C123
+* [Analog to Digital Conversion, Data Acquisition and Control](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/C14_ADCdataAcquisition.htm)
+* [Embedded Systems - Shape The World](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/)
+* [HowTo: Develop on the TI Tiva LaunchPad using Linux](http://chrisrm.com/howto-develop-on-the-ti-tiva-launchpad-using-linux/)
+* [Linux command line build system to generate binaries for TM4C123 (ARM Cortex M4) ](https://github.com/pitankar/TM4C)
+* [The complete tutorial for Stellaris LaunchPad development with GNU/Linux (I) ](http://kernelhacks.blogspot.com/2012/11/the-complete-tutorial-for-stellaris.html)
+* [Getting Started with the TI Stellaris LaunchPad on Linux](https://www.jann.cc/2012/12/11/getting_started_with_the_ti_stellaris_launchpad_on_linux.html)
+* [Embedded Systems with TM4C123 @Valvano](http://users.ece.utexas.edu/~valvano/arm/)
+
+### MSP432
+
+### STM32
+* [STM32 bootloader](http://ciesie.com/ks_stm32_bootloader.html)
+
+### STM8
+
 
 ## Raspberry
 
@@ -52,6 +73,7 @@ Table of content
 * [Search for 'Raspberry' topic on Github](https://github.com/topics/raspberry-pi-3?l=c)
 * [elinux: Raspberry Pi Programming](https://elinux.org/Raspberry_Pi_Programming) or [elinux: RPi Hub](https://elinux.org/RPi_Hub)
 * [Stanford CS104e - An Experimental Course on Operating Systems](https://web.stanford.edu/class/cs140e/)
+* [Computer Systems](http://cs107e.github.io/)
 
 ## Beaglebone
 
@@ -65,7 +87,9 @@ Table of content
 ## RTOS
 
 * [ROS](http://www.ros.org/)
-* [freeRTOS](freertos.org)
+* [FreeRTOS](freertos.org)
+* [FreeRTOS - Explaination](http://www.aosabook.org/en/freertos.html)
+* [FreeRTOS API Reference Documentation](http://web.ist.utl.pt/~ist11993/FRTOS-API/index.html)
 * [How to Write a Small RTOS](https://larrylisky.com/2012/07/14/how-to-create-a-small-rtos/)
 * [RTOS From Scrach](https://github.com/RTOS-From-Scratch)
 * [Writing a simple operating system from scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
@@ -79,7 +103,7 @@ Table of content
 
 ## Others
 
-* 
+* [A practical approach to Kalman filter and how to implement it](http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/)
 
 ## Tips & tricks
 
