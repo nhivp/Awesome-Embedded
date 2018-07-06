@@ -33,6 +33,7 @@ Table of content
 
 * [Skills/Knowledge required to become a champion Embedded Software Developer.](https://github.com/Embedded-Systems-Guide/embedded-software-skills)
 * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
+* [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
 ## Common
 
@@ -143,6 +144,8 @@ Table of content
 * [The gem5 Simulator](https://developer.arm.com/research/research-enablement/system-modeling) is a well-known sophisticated simulator used for computer system research at both architecture and micro-architecture levels. Main page is [here](http://gem5.org/Main_Page).
 * [LineageOS Android Distribution](https://github.com/LineageOS)
 * [The NoCAN platform](http://omzlo.com/articles/the-nocan-platform)
+* [Realtime OS on Embedded Systems](http://socialledge.com/sjsu/index.php/Realtime_OS_on_Embedded_Systems)
+* [These projects were produced in the five weeks of ECE 4760 each year. ](https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/)
 
 ## Tips & tricks
 
