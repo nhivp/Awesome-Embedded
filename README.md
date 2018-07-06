@@ -76,6 +76,8 @@ Table of content
 ### STM32
 * [STM32 bootloader](http://ciesie.com/ks_stm32_bootloader.html)
 * [Tests to program STM32 Nucleo in C with GCC ARM embedded toolchain and libopencm3](https://github.com/balau/nucleo_tests)
+* [A demo project of FreeRTOS running on a STM32F4 Discovery board. ](https://github.com/wangyeee/STM32F4-FreeRTOS)
+* [DFU Bootloader for STM32 chips](https://github.com/devanlai/dapboot)
 
 ### STM8
 
@@ -97,6 +99,11 @@ Table of content
 * [elinux: Raspberry Pi Programming](https://elinux.org/Raspberry_Pi_Programming) or [elinux: RPi Hub](https://elinux.org/RPi_Hub)
 * [Stanford CS104e - An Experimental Course on Operating Systems](https://web.stanford.edu/class/cs140e/)
 * [Computer Systems](http://cs107e.github.io/)
+* [Build a Debian-based ARM64 system for Raspberry Pi 3](https://github.com/UMRnInside/RPi-arm64)
+* [Learning operating system development using Linux kernel and Raspberry Pi ](https://github.com/s-matyukevich/raspberry-pi-os)
+* [A port of FreeRTOS to the raspberry pi 2B. With USB+Ethernet+TCP/IP. ](https://github.com/Forty-Tw0/RaspberryPi-FreeRTOS)
+* [64-bit Tiano Core UEFI for the Raspberry Pi 3](https://github.com/andreiw/RaspberryPiPkg)
+* [CXCORE-RaspberryPi3-ubuntu-18.04-aarch64](https://github.com/chainsx/ubuntu64-rpi#cxcore-raspberrypi3-ubuntu-1804-aarch64--)
 
 ## Beaglebone
 
@@ -134,6 +141,10 @@ Table of content
 * [30 Days make OS](https://github.com/yourtion/30dayMakeOS) --> [YOS](https://github.com/yourtion/YOS) @[Yannik](https://yannik520.github.io/)
 * Communication: [OSDEV.org](https://wiki.osdev.org/Main_Page), [reddit/osdev](https://www.reddit.com/r/osdev/)
 * [Real-time System Group](https://www.cs.york.ac.uk/rts/)
+* [object-oriented C++ RTOS for microcontrollers](https://github.com/DISTORTEC/distortos)
+* [RT-Thread is an open source IoT operating system from China.](https://github.com/RT-Thread/rt-thread)
+* [How to create an OS from scratch ](https://github.com/cfenollosa/os-tutorial)
+* [TetrOS is a small feature rich Tetris clone which is written in Assembly.](https://github.com/daniel-e/tetros)
 
 ## OS
 
