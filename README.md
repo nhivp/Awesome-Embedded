@@ -17,6 +17,7 @@ Table of content
 * [Assembly](#assembly)
 * [Linux Programming](#linux-programming)
 * [RTOS](#rtos)
+* [AUTOSAR](#autosar)
 * [OS](#os)
 * [Compiler](#compiler)
 * [Bootloader](#bootloader)
@@ -146,6 +147,10 @@ Table of content
 * [How to create an OS from scratch ](https://github.com/cfenollosa/os-tutorial)
 * [TetrOS is a small feature rich Tetris clone which is written in Assembly.](https://github.com/daniel-e/tetros)
 
+## AUTOSAR
+
+* [Trampoline is a static RTOS for small embedded systems.](https://github.com/TrampolineRTOS/trampoline)
+
 ## OS
 
 * [ucLinux](http://www.uclinux.org/): The Embedded Linux/Microcontroller project is a port of Linux to systems without a Memory Management Unit (MMU).
@@ -171,6 +176,7 @@ Table of content
 * [The NoCAN platform](http://omzlo.com/articles/the-nocan-platform)
 * [Realtime OS on Embedded Systems](http://socialledge.com/sjsu/index.php/Realtime_OS_on_Embedded_Systems)
 * [These projects were produced in the five weeks of ECE 4760 each year. ](https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/)
+* [Advanced fault backtrace library for ARM Cortex-M series MCU](https://github.com/armink/CmBacktrace)
 
 ## Tips & tricks
 
