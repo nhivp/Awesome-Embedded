@@ -3,14 +3,16 @@ A curated list of awesome embedded resource.
 
 Table of content
 
-* [Interview](#Interview)
-* [Embedded Software Skill](#Embedded-Software-Skill)
-* [Common](#Common)
+* [Interview](#interview)
+* [Embedded Software Skill](#embedded-software-skill)
+* [Common](#common)
 * [Microcontroller](#mcu-programming)
-* [Linux Programming](#Linux-Programming)
-* [RTOS](#RTOS)
-* [Tips & tricks](#Tips-&-tricks)
-* [FAQ - Embedded](#FAQ_Embedded)
+* [Raspberry](#raspberry)
+* [Bealgebone](#beaglebone)
+* [Linux Programming](#linux-programming)
+* [RTOS](#rtos)
+* [Tips & tricks](#tips-&-tricks)
+* [FAQ - Embedded](#faq_embedded)
 
 ## Interview
 
