@@ -26,19 +26,34 @@ Table of content
 * [TeraTerm - TTL command reference](http://ttssh2.osdn.jp/manual/en/macro/command/index.html)
 * [TeraTerm Scripts](http://processors.wiki.ti.com/index.php/Teraterm_Scripts)
 
-## Microcontroller
+## MCU programming
 
 * [Linker Command File Primer](http://processors.wiki.ti.com/index.php/Linker_Command_File_Primer)
 * [MSP430-GCC](http://www.simplyembedded.org/tutorials/setting-up-a-virtual-machine/)
+* [Computer Systems](http://cs107e.github.io/)
 
 ## Linux Programming
 
 * [Writing device drivers in Linux](http://freesoftwaremagazine.com/articles/drivers_linux/)
 
-## OS
+## RTOS
 
 * [ROS](http://www.ros.org/)
 * [freeRTOS](freertos.org)
+* [How to Write a Small RTOS](https://larrylisky.com/2012/07/14/how-to-create-a-small-rtos/)
+* [RTOS From Scrach](https://github.com/RTOS-From-Scratch)
+* [Writing a simple operating system from scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+* [Free real-time operating system (RTOS) designed for deeply embedded applications](https://github.com/stateos/StateOS)
+* [MPSoC FreeRTOS Development](http://www.wiki.xilinx.com/MPSoC+FreeRTOS+Development)
+* [Atomthreads: Open Source RTOS](https://atomthreads.com/)
+* [High performance motor control](https://github.com/madcowswe/ODrive)
+* [MINIX3: Open source RTOS](http://www.minix3.org/)
+* [30 Days make OS](https://github.com/yourtion/30dayMakeOS) --> [YOS](https://github.com/yourtion/YOS)
+* Communication: [OSDEV.org](https://wiki.osdev.org/Main_Page), [reddit/osdev](https://www.reddit.com/r/osdev/)
+
+## Others
+
+* 
 
 ## Tips & tricks
 
