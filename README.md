@@ -6,10 +6,11 @@ Table of content
 * [Interview](#Interview)
 * [Embedded Software Skill](#Embedded-Software-Skill)
 * [Common](#Common)
-* [Microcontroller](#Microcontroller)
+* [Microcontroller](#mcu-programming)
 * [Linux Programming](#Linux-Programming)
-* [Operating System](#OS)
+* [RTOS](#RTOS)
 * [Tips & tricks](#Tips-&-tricks)
+* [FAQ - Embedded](#FAQ_Embedded)
 
 ## Interview
 
@@ -61,5 +62,9 @@ Table of content
 > Awesome Cheat Sheets for Developer Utility, like Git, Vim , Tmux, SublimeText, Markdown, Shell.
 
 * [Vim Config for Reading Linux Kernel Source Code](https://github.com/mintisan/oh-my-vim)
+
+## FAQ_Embedded
+
+* [Boot section is removed (gcc, ld, ar, as)](https://www.embeddedrelated.com/showthread/lpc2000/47841-1.php)
 
 ## [Books for embedded system developers](http://www.ganssle.com/bkreviews.htm)
