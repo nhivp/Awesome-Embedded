@@ -47,6 +47,10 @@ Table of content
 
 ## MCU programming
 
+### Bare-metal programming (Don't need MCU)
+
+* [Simplest bare metal program for ARM](https://balau82.wordpress.com/2010/02/14/simplest-bare-metal-program-for-arm/) ([table of content](https://balau82.wordpress.com/arm-emulation/))
+
 ### MSP430
 * [MSP430-GCC](http://www.simplyembedded.org/tutorials/setting-up-a-virtual-machine/)
 
