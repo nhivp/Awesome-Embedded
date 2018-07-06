@@ -97,6 +97,7 @@ Table of content
 * [YOLINUX Tutorials](http://www.yolinux.com/TUTORIALS/)
 * [Linux driver programming](https://sites.google.com/site/embedded247/ddcourse)
 * [Free training materials and conference presentations](https://bootlin.com/docs/)
+* [eBook: Linux Drivers](https://sysplay.github.io/books/LinuxDrivers/book/index.html) or [Slides: Linux Drivers](https://sysplay.in/index.php?pagefile=linux_drivers)
 * Communication: [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page), 
 
 ## Assembly
