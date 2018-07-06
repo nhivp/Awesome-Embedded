@@ -32,6 +32,29 @@ Table of content
 * [Linker Command File Primer](http://processors.wiki.ti.com/index.php/Linker_Command_File_Primer)
 * [MSP430-GCC](http://www.simplyembedded.org/tutorials/setting-up-a-virtual-machine/)
 * [Computer Systems](http://cs107e.github.io/)
+* 
+
+## Raspberry
+
+* [ChibiOS/RT on the Raspberry Pi](https://www.stevebate.net/chibios-rpi/GettingStarted.html)
+* [Raspberry Pi ARM based bare metal examples ](https://github.com/dwelch67/raspberrypi)
+* [Bare metal Raspberry Pi 3 tutorials ](https://github.com/bztsrc/raspi3-tutorial)
+* [Open Projects: Raspberry, Beaglebone BSP](https://devel.rtems.org/wiki/Developer/OpenProjects)
+* [A Real-Time Operating System on the Raspberry Pi](http://www.pebblebay.com/raspberry-pi-embedded/)
+* [A port of FreeRTOS to the raspberry pi](https://github.com/jameswalmsley/RaspberryPi-FreeRTOS)
+* [FreeRTOS Sucessfully Ported](https://www.raspberrypi.org/forums/viewtopic.php?f=72&t=22423)
+* [Exploring AArch64 assembler - Raspberry](https://thinkingeek.com/2016/10/08/exploring-aarch64-assembler-chapter1/)
+* [A bootloader for the Raspberry Pi using the ethernet device](https://github.com/Nvreformat/Etherboot)
+* [Bare Metal Raspberry Pi](https://taylorpetrick.com/blog/post/bare-metal-pi-setup)
+* [Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
+* [Search for 'Raspberry' topic on Github](https://github.com/topics/raspberry-pi-3?l=c)
+* [elinux: Raspberry Pi Programming](https://elinux.org/Raspberry_Pi_Programming) or [elinux: RPi Hub](https://elinux.org/RPi_Hub)
+* [Stanford CS104e - An Experimental Course on Operating Systems](https://web.stanford.edu/class/cs140e/)
+
+## Beaglebone
+
+* [BeagleBone Black I2C References](https://datko.net/2013/11/03/bbb_i2c/)
+* [Learning BeagleBone Python Programming](https://hub.packtpub.com/learning-beaglebone-python-programming/)
 
 ## Linux Programming
 
