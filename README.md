@@ -21,6 +21,7 @@ Table of content
 * [OS](#os)
 * [Compiler](#compiler)
 * [Bootloader](#bootloader)
+* [Makefile](#makefile)
 * [Others](#ohers)
 * [Tips & tricks](#tips-&-tricks)
 * [FAQ - Embedded](#faq_embedded)
@@ -164,6 +165,11 @@ Table of content
 
 * [Writing a boot loader in Assembly and C](https://www.codeproject.com/Articles/664165/Writing-a-boot-loader-in-Assembly-and-C-Part)
 * [Writing a Bootloader Part 3](http://3zanders.co.uk/2017/10/18/writing-a-bootloader3/)
+
+## Makefile
+
+* [Managing projects with GNU Make](http://uploads.mitechie.com/books/Managing_Projects_with_GNU_Make_Third_Edition.pdf)
+* [GCC and Make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
 
 ## Others
 
