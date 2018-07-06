@@ -14,8 +14,13 @@ Table of content
     * [STM8](#stm8)
 * [Raspberry](#raspberry)
 * [Bealgebone](#beaglebone)
+* [Assembly](#assembly)
 * [Linux Programming](#linux-programming)
 * [RTOS](#rtos)
+* [OS](#os)
+* [Compiler](#compiler)
+* [Bootloader](#bootloader)
+* [Others](#ohers)
 * [Tips & tricks](#tips-&-tricks)
 * [FAQ - Embedded](#faq_embedded)
 
@@ -27,6 +32,7 @@ Table of content
 ## Embedded Software Skill
 
 * [Skills/Knowledge required to become a champion Embedded Software Developer.](https://github.com/Embedded-Systems-Guide/embedded-software-skills)
+* [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
 
 ## Common
 
@@ -34,6 +40,9 @@ Table of content
 * [TeraTerm - TTL command reference](http://ttssh2.osdn.jp/manual/en/macro/command/index.html)
 * [TeraTerm Scripts](http://processors.wiki.ti.com/index.php/Teraterm_Scripts)
 * [Linker Command File Primer](http://processors.wiki.ti.com/index.php/Linker_Command_File_Primer)
+* [The C build process](https://blog.feabhas.com/2012/06/the-c-build-process/)
+* [Building Bare-Metal ARM Systems with GNU](https://www.embedded.com/design/mcus-processors-and-socs/4026111/Building-Bare-Metal-ARM-Systems-with-GNU-Part-9)
+* [ELF – Executable and Linkable Format](https://2wisebit.wordpress.com/2018/06/08/elf-executable-and-linkable-format/)
 
 ## MCU programming
 
@@ -53,6 +62,7 @@ Table of content
 
 ### STM32
 * [STM32 bootloader](http://ciesie.com/ks_stm32_bootloader.html)
+* [Tests to program STM32 Nucleo in C with GCC ARM embedded toolchain and libopencm3](https://github.com/balau/nucleo_tests)
 
 ### STM8
 
@@ -83,6 +93,14 @@ Table of content
 ## Linux Programming
 
 * [Writing device drivers in Linux](http://freesoftwaremagazine.com/articles/drivers_linux/)
+* [YOLINUX Tutorials](http://www.yolinux.com/TUTORIALS/)
+* [Linux driver programming](https://sites.google.com/site/embedded247/ddcourse)
+* [Free training materials and conference presentations](https://bootlin.com/docs/)
+* Communication: [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page), 
+
+## Assembly
+
+* [GCC-Inline-Assembly-HOWTO](https://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html)
 
 ## RTOS
 
@@ -98,12 +116,33 @@ Table of content
 * [Atomthreads: Open Source RTOS](https://atomthreads.com/)
 * [High performance motor control](https://github.com/madcowswe/ODrive)
 * [MINIX3: Open source RTOS](http://www.minix3.org/)
-* [30 Days make OS](https://github.com/yourtion/30dayMakeOS) --> [YOS](https://github.com/yourtion/YOS)
+* [30 Days make OS](https://github.com/yourtion/30dayMakeOS) --> [YOS](https://github.com/yourtion/YOS) @[Yannik](https://yannik520.github.io/)
 * Communication: [OSDEV.org](https://wiki.osdev.org/Main_Page), [reddit/osdev](https://www.reddit.com/r/osdev/)
+* [Real-time System Group](https://www.cs.york.ac.uk/rts/)
+
+## OS
+
+* [ucLinux](http://www.uclinux.org/): The Embedded Linux/Microcontroller project is a port of Linux to systems without a Memory Management Unit (MMU).
+* [Tizen](https://www.elinux.org/Tizen)
+
+## Compiler
+
+* [ARM Compiler - armasm User Guide](https://static.docs.arm.com/dui0801/i/DUI0801I_armasm_user_guide.pdf)
+
+## Bootloader
+
+* [Writing a boot loader in Assembly and C](https://www.codeproject.com/Articles/664165/Writing-a-boot-loader-in-Assembly-and-C-Part)
+* [Writing a Bootloader Part 3](http://3zanders.co.uk/2017/10/18/writing-a-bootloader3/)
 
 ## Others
 
 * [A practical approach to Kalman filter and how to implement it](http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/)
+* [Embedded System programming](http://www.5square.in/): Diving into Syllabus for investigation.
+* [ELC 2018 Presentations](https://elinux.org/ELC_2018_Presentations)
+* [ARM Edition](https://sparkylinux.org/wiki/doku.php/sparky_arm): Sparky ARM Edition is a Sparky version created for a single board mini computer RaspberryPi. 
+* [The gem5 Simulator](https://developer.arm.com/research/research-enablement/system-modeling) is a well-known sophisticated simulator used for computer system research at both architecture and micro-architecture levels. Main page is [here](http://gem5.org/Main_Page).
+* [LineageOS Android Distribution](https://github.com/LineageOS)
+* [The NoCAN platform](http://omzlo.com/articles/the-nocan-platform)
 
 ## Tips & tricks
 
