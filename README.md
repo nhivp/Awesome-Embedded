@@ -148,11 +148,18 @@ Table of content
 * [object-oriented C++ RTOS for microcontrollers](https://github.com/DISTORTEC/distortos)
 * [RT-Thread is an open source IoT operating system from China.](https://github.com/RT-Thread/rt-thread)
 * [How to create an OS from scratch ](https://github.com/cfenollosa/os-tutorial)
-* [TetrOS is a small feature rich Tetris clone which is written in Assembly.](https://github.com/daniel-e/tetros)
+* [Sample Source: TetrOS is a small feature rich Tetris clone which is written in Assembly.](https://github.com/daniel-e/tetros)
+* [Sample Source: RTOS for microcontrollers](https://github.com/jimtremblay/nOS)
+* [Sample Source: A Powerful embedded RTOS for ARM Cortex M microcontrollers](https://github.com/StratifyLabs/StratifyOS)
+* [Sample Source: An embedded operating system for ARM Cortex-M based microcontrollers](https://github.com/onkwon/yaos)
+* [Sample Source: rnk is a RTOS targeting ARM architecture.](https://github.com/raphui/rnk)
+* [Sample Source: RTOS-From-Scratch](https://github.com/RTOS-From-Scratch/RTOS-From-Scratch)
+* [Sample Source: ]()
+* [Sample Source: ]()
 
 ## AUTOSAR
 
-* [Trampoline is a static RTOS for small embedded systems.](https://github.com/TrampolineRTOS/trampoline)
+* [Sample Source: Trampoline is a static RTOS for small embedded systems.](https://github.com/TrampolineRTOS/trampoline)
 
 ## OS
 
