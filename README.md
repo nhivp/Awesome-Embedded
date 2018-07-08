@@ -122,6 +122,8 @@ Table of content
 * [UEFI for RaspberryPi2 and RaspberryPi3 based on Linaro EDK2](https://github.com/ms-iot/RPi-UEFI)
 * [ARM-episodes](https://github.com/invictus1306/ARM-episodes) & [ARM exploitation for IoT](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
 * [ARM shellcode and exploit development - BSidesMunich 2018](https://github.com/invictus1306/Workshop-BSidesMunich2018)
+* [64 bit Bare Metal Programming on RPI-3](https://archive.fosdem.org/2017/schedule/event/programming_rpi3/attachments/slides/1475/export/events/attachments/programming_rpi3/slides/1475/bare_metal_rpi3.pdf)
+* [Raspberry Pi 3 Bare Metal](https://adamransom.github.io/posts/raspberry-pi-bare-metal-part-1.html)
 
 ## Beaglebone
 
@@ -130,6 +132,12 @@ Table of content
 * [Simple implementation of an OS for the BeagleBoard C4 with ARMv7 A8 processor.](https://github.com/Oxydation/MinionOS)
 * [Various projects that utilize low level hardware instructions to interface with leds, speaker output and joystick input.](https://github.com/travelln/beaglebone-projects)
 * [Windows Embedded Compact BSP for TI's Beaglebone](https://github.com/dvescovi1/WECBeagleBone)
+* [BBB-BareMetal](https://github.com/allexoll/BBB-BareMetal)- Works on the beaglebone black (bare metal)
+* [Running a Baremetal Beaglebone Black](https://www.twosixlabs.com/running-a-baremetal-beaglebone-black-part-1/) & [Part 2](https://www.twosixlabs.com/running-a-baremetal-beaglebone-black-part-2/)
+* [Bare Metal on the BeagleBone (Black and Green)](https://www.cs.sfu.ca/CourseCentral/433/bfraser/other/BareMetalGuide.pdf) & [link1](https://www.cs.sfu.ca/CourseCentral/433/bfraser/other/) + [Link2](https://www.cs.sfu.ca/CourseCentral/433/bfraser/weekly.html)
+* [A tutorial on bare-metal [OS] development on the Texas Instruments BeagleBoard.](https://wiki.osdev.org/ARM_Beagleboard)
+* [bare metal c project for beaglebone, ti sitara am335x](https://github.com/0xCA5A/kickstart/tree/master/beaglebone/bare_metal_hello_world)
+* [Bare Metal Applications on OSD335x using U-Boot](https://octavosystems.com/app_notes/bare-metal-on-osd335x-using-u-boot/#_Toc382081430)
 
 ## Linux Programming
 
