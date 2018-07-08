@@ -138,7 +138,7 @@ Table of content
 * [Linux driver programming](https://sites.google.com/site/embedded247/ddcourse)
 * [Free training materials and conference presentations](https://bootlin.com/docs/)
 * [eBook: Linux Drivers](https://sysplay.github.io/books/LinuxDrivers/book/index.html) or [Slides: Linux Drivers](https://sysplay.in/index.php?pagefile=linux_drivers)
-* Communication: [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page),
+* Community: [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page),
 
 ## Assembly
 
@@ -160,7 +160,7 @@ Table of content
 * [High performance motor control](https://github.com/madcowswe/ODrive)
 * [MINIX3: Open source RTOS](http://www.minix3.org/)
 * [30 Days make OS](https://github.com/yourtion/30dayMakeOS) --> [YOS](https://github.com/yourtion/YOS) @[Yannik](https://yannik520.github.io/)
-* Communication: [OSDEV.org](https://wiki.osdev.org/Main_Page), [reddit/osdev](https://www.reddit.com/r/osdev/)
+* Community: [OSDEV.org](https://wiki.osdev.org/Main_Page), [reddit/osdev](https://www.reddit.com/r/osdev/)
 * [Real-time System Group](https://www.cs.york.ac.uk/rts/)
 * [object-oriented C++ RTOS for microcontrollers](https://github.com/DISTORTEC/distortos)
 * [RT-Thread is an open source IoT operating system from China.](https://github.com/RT-Thread/rt-thread)
@@ -185,6 +185,8 @@ Table of content
 
 * [ucLinux](http://www.uclinux.org/): The Embedded Linux/Microcontroller project is a port of Linux to systems without a Memory Management Unit (MMU).
 * [Tizen](https://www.elinux.org/Tizen)
+* [Bootstrap yourself to write an OS from scratch. A book for self-learner.](https://github.com/tuhdo/os01)
+* [Kernel 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 
 ## Compiler
 
@@ -196,6 +198,7 @@ Table of content
 * [Writing a Bootloader Part 3](http://3zanders.co.uk/2017/10/18/writing-a-bootloader3/)
 * [A bootloader for ARM Cortex-M based microcontrollers](https://github.com/onkwon/yaboot)
 * [ARMv7M ELF loader ](https://github.com/martinribelotta/elfloader)
+* [Writing a Bootloader Part 1](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 
 ## Makefile
 
@@ -226,6 +229,10 @@ Table of content
 
 * [Boot section is removed (gcc, ld, ar, as)](https://www.embeddedrelated.com/showthread/lpc2000/47841-1.php)
 
-## eBook
+## Looking for more lists like this?
 
-## [Books for embedded system developers](http://www.ganssle.com/bkreviews.htm)
+* [A curated list of project-based tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
+* [Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning)
+* [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+* [A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi)
+* [Curated List of Self-Driving Cars and Autonomous Vehicles Resources](https://github.com/takeitallsource/awesome-autonomous-vehicles)
