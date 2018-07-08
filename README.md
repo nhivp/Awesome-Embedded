@@ -99,6 +99,7 @@ Table of content
 * [Exploring AArch64 assembler - Raspberry](https://thinkingeek.com/2016/10/08/exploring-aarch64-assembler-chapter1/)
 * [A bootloader for the Raspberry Pi using the ethernet device](https://github.com/Nvreformat/Etherboot)
 * [Bare Metal Raspberry Pi](https://taylorpetrick.com/blog/post/bare-metal-pi-setup)
+* [Bare Metal Programming in C](http://www.valvers.com/open-software/raspberry-pi/step01-bare-metal-programming-in-cpt1/)
 * [Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
 * [Search for 'Raspberry' topic on Github](https://github.com/topics/raspberry-pi-3?l=c)
 * [elinux: Raspberry Pi Programming](https://elinux.org/Raspberry_Pi_Programming) or [elinux: RPi Hub](https://elinux.org/RPi_Hub)
@@ -110,6 +111,10 @@ Table of content
 * [64-bit Tiano Core UEFI for the Raspberry Pi 3](https://github.com/andreiw/RaspberryPiPkg)
 * [CXCORE-RaspberryPi3-ubuntu-18.04-aarch64](https://github.com/chainsx/ubuntu64-rpi#cxcore-raspberrypi3-ubuntu-1804-aarch64--)
 * [Sample source: Baremetal source code for Raspberry](https://github.com/LdB-ECM/Raspberry-Pi)
+* [Sample source: NarcOS - A bare metal ultralight kernel for Raspberry Pi 3](https://github.com/forkachild/NarcOS)
+* [Sample source: FreeRTOS v9.0.0 port for Raspberry Pi 1](https://github.com/leodido99/RaspberryPi1-FreeRTOSv9.0.0)
+* [Sample source: A bare-metal experiments with the RaspberryPi](https://github.com/majorviraj/my-os)
+* [「BareMetalで遊ぶ Raspberry Pi」のプログラムです。](https://github.com/jitomesky/RPi_Micon_C85book)
 
 ## Beaglebone
 
@@ -158,6 +163,7 @@ Table of content
 * [Sample Source: An embedded operating system for ARM Cortex-M based microcontrollers](https://github.com/onkwon/yaos)
 * [Sample Source: rnk is a RTOS targeting ARM architecture.](https://github.com/raphui/rnk)
 * [Sample Source: RTOS-From-Scratch](https://github.com/RTOS-From-Scratch/RTOS-From-Scratch)
+* [Sample Source: Embeded OS for PIC32MX270F256B](https://github.com/envzhu/kozos-pic)
 
 ## AUTOSAR
 
