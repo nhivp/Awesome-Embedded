@@ -84,6 +84,10 @@ Table of content
 * [Tests to program STM32 Nucleo in C with GCC ARM embedded toolchain and libopencm3](https://github.com/balau/nucleo_tests)
 * [A demo project of FreeRTOS running on a STM32F4 Discovery board.](https://github.com/wangyeee/STM32F4-FreeRTOS)
 * [DFU Bootloader for STM32 chips](https://github.com/devanlai/dapboot)
+* [Customizable Bootloader for STM32 microcontrollers.](https://github.com/akospasztor/stm32-bootloader)
+* [Lightweight USB device Stack for STM32 microcontrollers](https://github.com/dmitrystu/libusb_stm32)
+* [STM32 programming with Embedded GNU Compiler](https://github.com/rowol/stm32_discovery_arm_gcc)
+* [A tiny portable 3D graphics lib for micro controllers (Oled display)](https://github.com/avem-labs/ol3d)
 
 ### STM8
 
@@ -115,6 +119,9 @@ Table of content
 * [Sample source: FreeRTOS v9.0.0 port for Raspberry Pi 1](https://github.com/leodido99/RaspberryPi1-FreeRTOSv9.0.0)
 * [Sample source: A bare-metal experiments with the RaspberryPi](https://github.com/majorviraj/my-os)
 * [「BareMetalで遊ぶ Raspberry Pi」のプログラムです。](https://github.com/jitomesky/RPi_Micon_C85book)
+* [UEFI for RaspberryPi2 and RaspberryPi3 based on Linaro EDK2](https://github.com/ms-iot/RPi-UEFI)
+* [ARM-episodes](https://github.com/invictus1306/ARM-episodes) & [ARM exploitation for IoT](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
+* [ARM shellcode and exploit development - BSidesMunich 2018](https://github.com/invictus1306/Workshop-BSidesMunich2018)
 
 ## Beaglebone
 
@@ -122,6 +129,7 @@ Table of content
 * [Learning BeagleBone Python Programming](https://hub.packtpub.com/learning-beaglebone-python-programming/)
 * [Simple implementation of an OS for the BeagleBoard C4 with ARMv7 A8 processor.](https://github.com/Oxydation/MinionOS)
 * [Various projects that utilize low level hardware instructions to interface with leds, speaker output and joystick input.](https://github.com/travelln/beaglebone-projects)
+* [Windows Embedded Compact BSP for TI's Beaglebone](https://github.com/dvescovi1/WECBeagleBone)
 
 ## Linux Programming
 
@@ -164,10 +172,14 @@ Table of content
 * [Sample Source: rnk is a RTOS targeting ARM architecture.](https://github.com/raphui/rnk)
 * [Sample Source: RTOS-From-Scratch](https://github.com/RTOS-From-Scratch/RTOS-From-Scratch)
 * [Sample Source: Embeded OS for PIC32MX270F256B](https://github.com/envzhu/kozos-pic)
+* [How I ended up writing a new real-time kernel](https://dmitryfrank.com/articles/how_i_ended_up_writing_my_own_kernel)
+* [Sample Source: TNeo - a well-formed and carefully tested preemptive real-time kernel for 16- and 32-bits MCUs](https://github.com/dimonomid/tneo)
+* [yaos is an embedded operating system for Internet of Things(IoT) devices, specifically for a single-core processor without MMU virtualization.](https://github.com/onkwon/yaos)
 
 ## AUTOSAR
 
-* [Sample Source: Trampoline is a static RTOS for small embedded systems.](https://github.com/TrampolineRTOS/trampoline)
+* [Sample Source: Trampoline is a static RTOS for small embedded systems.](https://github.com/TrampolineRTOS/trampoline) & [labs](http://www.irccyn.ec-nantes.fr/~bechenne/trampoline-labs/)
+* [Sample source: An integration an example AUTOSAR project which every part in AUTOSAR (OS, RTE, BSW, MCAL) are collected from different open source.](https://github.com/leduynguyen/My_AUTOSAR_Project)
 
 ## OS
 
@@ -182,6 +194,8 @@ Table of content
 
 * [Writing a boot loader in Assembly and C](https://www.codeproject.com/Articles/664165/Writing-a-boot-loader-in-Assembly-and-C-Part)
 * [Writing a Bootloader Part 3](http://3zanders.co.uk/2017/10/18/writing-a-bootloader3/)
+* [A bootloader for ARM Cortex-M based microcontrollers](https://github.com/onkwon/yaboot)
+* [ARMv7M ELF loader ](https://github.com/martinribelotta/elfloader)
 
 ## Makefile
 
