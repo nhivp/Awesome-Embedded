@@ -88,6 +88,10 @@ Table of content
 * [Lightweight USB device Stack for STM32 microcontrollers](https://github.com/dmitrystu/libusb_stm32)
 * [STM32 programming with Embedded GNU Compiler](https://github.com/rowol/stm32_discovery_arm_gcc)
 * [A tiny portable 3D graphics lib for micro controllers (Oled display)](https://github.com/avem-labs/ol3d)
+* [Getting started with the STM32F4-Discovery board using the EmBitz IDE](https://github.com/RoanFourie/STM32F4-DISCO-EMBITZ-Blinky)
+* [libopencm3 and FreeRTOS projects using the STM32F103C8T6 MCU](https://github.com/ve3wwg/stm32f103c8t6)
+* [A template for builting STM23F0 ARM projects with GCC](https://github.com/szczys/stm32f0-discovery-basic-template)
+* [Open source flash program for STM32 using the ST serial bootloader](https://sourceforge.net/projects/stm32flash/)
 
 ### STM8
 
@@ -236,6 +240,7 @@ Table of content
 ## FAQ_Embedded
 
 * [Boot section is removed (gcc, ld, ar, as)](https://www.embeddedrelated.com/showthread/lpc2000/47841-1.php)
+* [What are .axf files?](https://stackoverflow.com/questions/17761328/what-are-axf-files)
 
 ## Looking for more lists like this?
 
@@ -244,3 +249,7 @@ Table of content
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 * [A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi)
 * [Curated List of Self-Driving Cars and Autonomous Vehicles Resources](https://github.com/takeitallsource/awesome-autonomous-vehicles)
+
+## BOOKs
+
+* [Mastering the Raspberry Pi](http://mensshed-llandudno.co.uk/wp-content/uploads/Mastering%20the%20Raspberry%20Pi.pdf)
