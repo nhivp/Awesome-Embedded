@@ -135,6 +135,7 @@ Table of content
 * [ARM shellcode and exploit development - BSidesMunich 2018](https://github.com/invictus1306/Workshop-BSidesMunich2018)
 * [64 bit Bare Metal Programming on RPI-3](https://archive.fosdem.org/2017/schedule/event/programming_rpi3/attachments/slides/1475/export/events/attachments/programming_rpi3/slides/1475/bare_metal_rpi3.pdf)
 * [Raspberry Pi 3 Bare Metal](https://adamransom.github.io/posts/raspberry-pi-bare-metal-part-1.html)
+* [Assembly code for Raspberry Pi](https://github.com/Alkesst/RPIAssembly)
 
 ## Beaglebone
 
