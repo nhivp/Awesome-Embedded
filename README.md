@@ -75,6 +75,7 @@ Table of content
 * [The complete tutorial for Stellaris LaunchPad development with GNU/Linux (I)](http://kernelhacks.blogspot.com/2012/11/the-complete-tutorial-for-stellaris.html)
 * [Getting Started with the TI Stellaris LaunchPad on Linux](https://www.jann.cc/2012/12/11/getting_started_with_the_ti_stellaris_launchpad_on_linux.html)
 * [Embedded Systems with TM4C123 @Valvano](http://users.ece.utexas.edu/~valvano/arm/)
+* [Create FreeRTOS Demo Project using the GCC Compiler](http://shukra.cedt.iisc.ernet.in/edwiki/EmSys:Create_freertos_on_tm4c123_CCS_Project)
 
 ### MSP432
 
