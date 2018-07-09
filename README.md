@@ -77,6 +77,7 @@ Table of content
 * [Embedded Systems with TM4C123 @Valvano](http://users.ece.utexas.edu/~valvano/arm/)
 * [Create FreeRTOS Demo Project using the GCC Compiler](http://shukra.cedt.iisc.ernet.in/edwiki/EmSys:Create_freertos_on_tm4c123_CCS_Project)
 * [Serial bootloader on TM4C12x Microcontroller](http://www.ti.com/lit/an/spma074a/spma074a.pdf)
+* [Tivaware bootloader](http://www.ti.com/lit/ug/spmu301d/spmu301d.pdf)
 
 ### MSP432
 
