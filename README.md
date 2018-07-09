@@ -76,8 +76,11 @@ Table of content
 * [Getting Started with the TI Stellaris LaunchPad on Linux](https://www.jann.cc/2012/12/11/getting_started_with_the_ti_stellaris_launchpad_on_linux.html)
 * [Embedded Systems with TM4C123 @Valvano](http://users.ece.utexas.edu/~valvano/arm/)
 * [Create FreeRTOS Demo Project using the GCC Compiler](http://shukra.cedt.iisc.ernet.in/edwiki/EmSys:Create_freertos_on_tm4c123_CCS_Project)
+* [Serial bootloader on TM4C12x Microcontroller](http://www.ti.com/lit/an/spma074a/spma074a.pdf)
 
 ### MSP432
+
+* [TBD](#)
 
 ### STM32
 
@@ -95,6 +98,8 @@ Table of content
 * [Open source flash program for STM32 using the ST serial bootloader](https://sourceforge.net/projects/stm32flash/)
 
 ### STM8
+
+* [TBD](#)
 
 ## Raspberry
 
