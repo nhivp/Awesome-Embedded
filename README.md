@@ -69,6 +69,7 @@ Table of content
 ### TM4C123
 
 * [EmbeddedSystems.Playground](https://github.com/glennlopez/EmbeddedSystems.Playground/wiki/Periodic-SysTick-Interrupts)
+* [Macros in TivaWare](https://sites.google.com/site/luiselectronicprojects/tutorials/tiva-tutorials/direct-register-access-notes/macros-in-tivaware)
 * [Analog to Digital Conversion, Data Acquisition and Control](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/C14_ADCdataAcquisition.htm)
 * [Embedded Systems - Shape The World](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/)
 * [HowTo: Develop on the TI Tiva LaunchPad using Linux](http://chrisrm.com/howto-develop-on-the-ti-tiva-launchpad-using-linux/)
