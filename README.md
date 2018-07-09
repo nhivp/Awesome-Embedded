@@ -217,6 +217,13 @@ Table of content
 * [Managing projects with GNU Make](http://uploads.mitechie.com/books/Managing_Projects_with_GNU_Make_Third_Edition.pdf)
 * [GCC and Make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
 
+## Peripheral
+
+### Memory Protection Unit
+
+* [Building Hardware Components for Memory Protection of Applications on a Tiny Processor](https://carrv.github.io/2017/papers/oh-mpu-carrv2017.pdf)
+* [KeyStone Architecture: Memory Protection Unit (MPU)](http://www.ti.com/lit/ug/sprugw5a/sprugw5a.pdf)
+
 ## Others
 
 * [A practical approach to Kalman filter and how to implement it](http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/)
