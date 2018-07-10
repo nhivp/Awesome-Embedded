@@ -80,6 +80,7 @@ Table of content
 * [Create FreeRTOS Demo Project using the GCC Compiler](http://shukra.cedt.iisc.ernet.in/edwiki/EmSys:Create_freertos_on_tm4c123_CCS_Project)
 * [Serial bootloader on TM4C12x Microcontroller](http://www.ti.com/lit/an/spma074a/spma074a.pdf)
 * [Tivaware bootloader](http://www.ti.com/lit/ug/spmu301d/spmu301d.pdf)
+* [Diagnosing Common Development Problems and Tips & Info for TM4C Devices](http://e2e.ti.com/support/microcontrollers/tiva_arm/f/908/t/374640)
 
 ### MSP432
 
