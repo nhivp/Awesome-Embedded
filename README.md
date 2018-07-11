@@ -171,6 +171,7 @@ Table of content
 
 ## RTOS
 
+* [List of open source real-time operating systems](https://www.osrtos.com/)
 * [ROS](http://www.ros.org/)
 * [FreeRTOS](freertos.org)
 * [FreeRTOS - Explaination](http://www.aosabook.org/en/freertos.html)
