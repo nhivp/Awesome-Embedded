@@ -24,6 +24,7 @@ Table of content
 * [Bootloader](#bootloader)
 * [Makefile](#makefile)
 * [Others](#ohers)
+* [Utilities](#utilities)
 * [Tips & tricks](#tips-&-tricks)
 * [FAQ - Embedded](#faq_embedded)
 
@@ -222,6 +223,7 @@ Table of content
 * [A bootloader for ARM Cortex-M based microcontrollers](https://github.com/onkwon/yaboot)
 * [ARMv7M ELF loader ](https://github.com/martinribelotta/elfloader)
 * [Writing a Bootloader Part 1](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+* [can-bootloader](https://github.com/cvra/can-bootloader) - The bootloader used to flash our CAN-connected boards
 
 ## Makefile
 
@@ -247,6 +249,12 @@ Table of content
 * [Realtime OS on Embedded Systems](http://socialledge.com/sjsu/index.php/Realtime_OS_on_Embedded_Systems)
 * [These projects were produced in the five weeks of ECE 4760 each year.](https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/)
 * [Advanced fault backtrace library for ARM Cortex-M series MCU](https://github.com/armink/CmBacktrace)
+
+## Utilities
+
+* [lm4tools](https://github.com/utzig/lm4tools)
+* [mspdebug](https://github.com/dlbeer/mspdebug) - Debugging tool for MSP430 MCUs
+* [pycs](https://github.com/deadsy/pycs) - Python Based ARM CoreSight Debug and Trace Tools
 
 ## Tips & tricks
 
