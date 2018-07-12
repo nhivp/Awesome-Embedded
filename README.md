@@ -106,8 +106,14 @@ Table of content
 
 * [TBD](#)
 
+### ESP8266
+
+* [An open source bootloader for the ESP8266](https://github.com/raburton/rboot)
+* [An esp8266 rom creation tool](https://github.com/raburton/esptool2)
+
 ## Raspberry
 
+* [Raspberry Pi Bare Metal](https://github.com/fordp2002/ArmCopro/wiki/Raspberry-Pi-Bare-Metal) & [related link](https://microeletroniki.wordpress.com/)
 * [ChibiOS/RT on the Raspberry Pi](https://www.stevebate.net/chibios-rpi/GettingStarted.html)
 * [Raspberry Pi ARM based bare metal examples](https://github.com/dwelch67/raspberrypi)
 * [Bare metal Raspberry Pi 3 tutorials](https://github.com/bztsrc/raspi3-tutorial)
@@ -155,6 +161,8 @@ Table of content
 * [bare metal c project for beaglebone, ti sitara am335x](https://github.com/0xCA5A/kickstart/tree/master/beaglebone/bare_metal_hello_world)
 * [Bare Metal Applications on OSD335x using U-Boot](https://octavosystems.com/app_notes/bare-metal-on-osd335x-using-u-boot/#_Toc382081430)
 * [bbb-asm-demo](https://github.com/mvduin/bbb-asm-demo) - Extremely tiny baremetal application for BeagleBone Black
+* [Beaglebone - Getting started with JTAG and CCS](https://beagleboard.org/static/beaglebone/latest/Docs/ccs-jtag-simple.htm)
+* [BeagleBoardJTAG](https://elinux.org/BeagleBoardJTAG)
 
 ## Linux Programming
 
@@ -201,6 +209,7 @@ Table of content
 * [How I ended up writing a new real-time kernel](https://dmitryfrank.com/articles/how_i_ended_up_writing_my_own_kernel)
 * [Sample Source: TNeo - a well-formed and carefully tested preemptive real-time kernel for 16- and 32-bits MCUs](https://github.com/dimonomid/tneo)
 * [yaos is an embedded operating system for Internet of Things(IoT) devices, specifically for a single-core processor without MMU virtualization.](https://github.com/onkwon/yaos)
+* [RT-Thread for Raspberry Pi 2B ](https://github.com/BernardXiong/raspi2)
 
 ## AUTOSAR
 
