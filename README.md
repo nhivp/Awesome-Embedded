@@ -154,6 +154,7 @@ Table of content
 * [A tutorial on bare-metal [OS] development on the Texas Instruments BeagleBoard.](https://wiki.osdev.org/ARM_Beagleboard)
 * [bare metal c project for beaglebone, ti sitara am335x](https://github.com/0xCA5A/kickstart/tree/master/beaglebone/bare_metal_hello_world)
 * [Bare Metal Applications on OSD335x using U-Boot](https://octavosystems.com/app_notes/bare-metal-on-osd335x-using-u-boot/#_Toc382081430)
+* [bbb-asm-demo](https://github.com/mvduin/bbb-asm-demo) - Extremely tiny baremetal application for BeagleBone Black
 
 ## Linux Programming
 
