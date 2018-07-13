@@ -101,6 +101,7 @@ Table of content
 * [libopencm3 and FreeRTOS projects using the STM32F103C8T6 MCU](https://github.com/ve3wwg/stm32f103c8t6)
 * [A template for builting STM23F0 ARM projects with GCC](https://github.com/szczys/stm32f0-discovery-basic-template)
 * [Open source flash program for STM32 using the ST serial bootloader](https://sourceforge.net/projects/stm32flash/)
+* [stm32-hid-bootloader](https://github.com/bootsector/stm32-hid-bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X devices
 
 ### STM8
 
@@ -210,6 +211,7 @@ Table of content
 * [Sample Source: TNeo - a well-formed and carefully tested preemptive real-time kernel for 16- and 32-bits MCUs](https://github.com/dimonomid/tneo)
 * [yaos is an embedded operating system for Internet of Things(IoT) devices, specifically for a single-core processor without MMU virtualization.](https://github.com/onkwon/yaos)
 * [RT-Thread for Raspberry Pi 2B ](https://github.com/BernardXiong/raspi2)
+* [tock](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers.
 
 ## AUTOSAR
 
