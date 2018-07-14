@@ -224,6 +224,7 @@ Table of content
 * [Tizen](https://www.elinux.org/Tizen)
 * [Bootstrap yourself to write an OS from scratch. A book for self-learner.](https://github.com/tuhdo/os01)
 * [Kernel 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+* [The little book about OS development](https://littleosbook.github.io/)
 
 ## Compiler
 
