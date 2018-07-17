@@ -67,6 +67,7 @@ Table of content
 
 * [MSP430-GCC](http://www.simplyembedded.org/tutorials/setting-up-a-virtual-machine/)
 * [CS4101: Introduction to Embedded Systems](http://www.cs.nthu.edu.tw/~king/courses/cs4101/2016/cs4101.html) -  The course is designed around labs, using TI MSP430 LaunchPad and Arduino Uno to discuss concepts such as basic I/O, timing and clocking, interupt handling, serial communication, embedded operating systems, synchronization, etc.
+* [msp430-template](https://github.com/uctools/msp430-template) - A template for MSP430 firmware.
 
 ### TM4C123
 
@@ -83,6 +84,9 @@ Table of content
 * [Serial bootloader on TM4C12x Microcontroller](http://www.ti.com/lit/an/spma074a/spma074a.pdf)
 * [Tivaware bootloader](http://www.ti.com/lit/ug/spmu301d/spmu301d.pdf)
 * [Diagnosing Common Development Problems and Tips & Info for TM4C Devices](http://e2e.ti.com/support/microcontrollers/tiva_arm/f/908/t/374640)
+* [FreeRTOS-GCC-tm4c123glx](https://github.com/nhivp/FreeRTOS-GCC-tm4c123glx) - A port of FreeRTOS to the Texas Instruments Tiva TM4C123GLX Launchpad.
+* [Stellaris_TM4C123G_GCC_Template](https://github.com/AndoniV/Stellaris_TM4C123G_GCC_Template) - Texas Instruments template project for the TM4C123 series using GNU toolchain.
+* [tm4c-gcc](https://github.com/martinjaros/tm4c-gcc) - TM4C123 GCC project template.
 
 ### MSP432
 
@@ -103,6 +107,7 @@ Table of content
 * [A template for builting STM23F0 ARM projects with GCC](https://github.com/szczys/stm32f0-discovery-basic-template)
 * [Open source flash program for STM32 using the ST serial bootloader](https://sourceforge.net/projects/stm32flash/)
 * [stm32-hid-bootloader](https://github.com/bootsector/stm32-hid-bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X devices
+* [stm32l1xx-template](https://github.com/uctools/stm32l1xx-template) - A template for building firmware for the STM32L1xx.
 
 ### STM8
 
@@ -173,6 +178,7 @@ Table of content
 * [Linux driver programming](https://sites.google.com/site/embedded247/ddcourse)
 * [Free training materials and conference presentations](https://bootlin.com/docs/)
 * [eBook: Linux Drivers](https://sysplay.github.io/books/LinuxDrivers/book/index.html) or [Slides: Linux Drivers](https://sysplay.in/index.php?pagefile=linux_drivers)
+* [c-periphery](https://github.com/vsergeev/c-periphery) - A C library for peripheral I/O (GPIO, SPI, I2C, MMIO, Serial) in Linux.
 * Community: [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page),
 
 ## Assembly
@@ -226,6 +232,7 @@ Table of content
 * [Bootstrap yourself to write an OS from scratch. A book for self-learner.](https://github.com/tuhdo/os01)
 * [Kernel 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 * [The little book about OS development](https://littleosbook.github.io/)
+* [TetrOS](https://github.com/daniel-e/tetros) - Tetris that fits into the boot sector.
 
 ## Compiler
 
@@ -252,6 +259,10 @@ Table of content
 * [Building Hardware Components for Memory Protection of Applications on a Tiny Processor](https://carrv.github.io/2017/papers/oh-mpu-carrv2017.pdf)
 * [KeyStone Architecture: Memory Protection Unit (MPU)](http://www.ti.com/lit/ug/sprugw5a/sprugw5a.pdf)
 
+### USB
+
+* [tinyusb](https://github.com/hathach/tinyusb) - A silly USB stack for Embedded System.
+
 ## Others
 
 * [A practical approach to Kalman filter and how to implement it](http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/)
@@ -264,6 +275,9 @@ Table of content
 * [Realtime OS on Embedded Systems](http://socialledge.com/sjsu/index.php/Realtime_OS_on_Embedded_Systems)
 * [These projects were produced in the five weeks of ECE 4760 each year.](https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/)
 * [Advanced fault backtrace library for ARM Cortex-M series MCU](https://github.com/armink/CmBacktrace)
+* [mcu-starter-projects](https://github.com/ataradov/mcu-starter-projects) - Simple starter projects for bare-metal MCU development.
+* [DirtyJTAG](https://github.com/jeanthom/DirtyJTAG) - JTAG adapter firmware for STM32F1
+* [Generic_MCU_Software_Infrastructure](https://github.com/GorgonMeducer/Generic_MCU_Software_Infrastructure) - Provide necessary software infrastructure, service, macros to support some high level abstruct concept or paradigm, such as OOPC, FSM, delegate (event-driven) and etc.
 
 ## Utilities
 
@@ -285,11 +299,13 @@ Table of content
 
 ## Looking for more lists like this?
 
+* [awesome-c](https://github.com/uhub/awesome-c) - A curated list of awesome C frameworks, libraries and software.
 * [A curated list of project-based tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 * [Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 * [A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi)
 * [Curated List of Self-Driving Cars and Autonomous Vehicles Resources](https://github.com/takeitallsource/awesome-autonomous-vehicles)
+* [awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems)
 
 ## BOOKs
 
