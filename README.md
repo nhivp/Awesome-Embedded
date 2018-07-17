@@ -33,6 +33,8 @@ Table of content
 * [Questions which are frequently asked in an interview.](https://github.com/Embedded-Systems-Guide/interview-questions)
 > On the way to be a full-stack embedded software engineer.
 
+* [coding-interview-university](https://github.com/nhivp/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
 ## Embedded Software Skill
 
 * [Skills/Knowledge required to become a champion Embedded Software Developer.](https://github.com/Embedded-Systems-Guide/embedded-software-skills)
