@@ -219,6 +219,7 @@ Table of content
 * [yaos is an embedded operating system for Internet of Things(IoT) devices, specifically for a single-core processor without MMU virtualization.](https://github.com/onkwon/yaos)
 * [RT-Thread for Raspberry Pi 2B ](https://github.com/BernardXiong/raspi2)
 * [tock](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers.
+* [AliOS-Things](https://github.com/alibaba/AliOS-Things) - AliOS Things released by Alibaba is an open-source implementation of operating system (OS) for Internet of Things (IoT).
 
 ## AUTOSAR
 
@@ -278,6 +279,7 @@ Table of content
 * [mcu-starter-projects](https://github.com/ataradov/mcu-starter-projects) - Simple starter projects for bare-metal MCU development.
 * [DirtyJTAG](https://github.com/jeanthom/DirtyJTAG) - JTAG adapter firmware for STM32F1
 * [Generic_MCU_Software_Infrastructure](https://github.com/GorgonMeducer/Generic_MCU_Software_Infrastructure) - Provide necessary software infrastructure, service, macros to support some high level abstruct concept or paradigm, such as OOPC, FSM, delegate (event-driven) and etc.
+* [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform.
 
 ## Utilities
 
@@ -306,6 +308,7 @@ Table of content
 * [A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi)
 * [Curated List of Self-Driving Cars and Autonomous Vehicles Resources](https://github.com/takeitallsource/awesome-autonomous-vehicles)
 * [awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems)
+* [awesome-cheat-sheets](https://github.com/mintisan/awesome-cheat-sheets) - Awesome Cheat Sheets for Developer Utility, like Git, Vim, Tmux, Sublime Text, Markdown, Shell.
 
 ## BOOKs
 
