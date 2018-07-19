@@ -18,7 +18,7 @@ Table of content
 * [Assembly](#assembly)
 * [Linux Programming](#linux-programming)
 * [RTOS](#rtos)
-* [AUTOSAR](#autosar)
+* [AUTOSAR](#automotive)
 * [OS](#os)
 * [Compiler](#compiler)
 * [Bootloader](#bootloader)
@@ -223,10 +223,11 @@ Table of content
 * [tock](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers.
 * [AliOS-Things](https://github.com/alibaba/AliOS-Things) - AliOS Things released by Alibaba is an open-source implementation of operating system (OS) for Internet of Things (IoT).
 
-## AUTOSAR
+## Automotive
 
 * [Sample Source: Trampoline is a static RTOS for small embedded systems.](https://github.com/TrampolineRTOS/trampoline) & [labs](http://www.irccyn.ec-nantes.fr/~bechenne/trampoline-labs/)
 * [Sample source: An integration an example AUTOSAR project which every part in AUTOSAR (OS, RTE, BSW, MCAL) are collected from different open source.](https://github.com/leduynguyen/My_AUTOSAR_Project)
+* [automotive software(OSEK & AUTOSAR) ](https://github.com/parai/as) - Because I am not powerful so I decided to develop tiny but smart part of automotive software based on open source, and create a general AUTOSAR & Automotive Software study environment.
 
 ## OS
 
