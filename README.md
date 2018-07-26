@@ -297,6 +297,7 @@ Table of content
 > Awesome Cheat Sheets for Developer Utility, like Git, Vim , Tmux, SublimeText, Markdown, Shell.
 
 * [Vim Config for Reading Linux Kernel Source Code](https://github.com/mintisan/oh-my-vim)
+* [GNU GDB Debugger Command Cheat Sheet](http://www.yolinux.com/TUTORIALS/GDB-Commands.html)
 
 ## FAQ_Embedded
 
