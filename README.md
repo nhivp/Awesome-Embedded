@@ -92,7 +92,7 @@ Table of content
 
 ### MSP432
 
-* [TBD](#)
+* [Real-Time Bluetooth Networks - UTAustinX](https://github.com/monpeco/real_time_bn) - Learn the design fundamentals of a real-time operating system (RTOS) and how to build a Bluetooth network in this hands-on project-based course.
 
 ### STM32
 
