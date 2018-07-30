@@ -20,6 +20,7 @@ Table of content
 * [RTOS](#rtos)
 * [AUTOSAR](#automotive)
 * [OS](#os)
+* [WindowCE](#windowce)
 * [Compiler](#compiler)
 * [Bootloader](#bootloader)
 * [Makefile](#makefile)
@@ -238,6 +239,14 @@ Table of content
 * [Kernel 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 * [The little book about OS development](https://littleosbook.github.io/)
 * [TetrOS](https://github.com/daniel-e/tetros) - Tetris that fits into the boot sector.
+
+## WindowCE
+
+* [GuruCE Blog](https://guruce.com/blog)
+* [Windows CE Base Team Blog](https://blogs.msdn.microsoft.com/ce_base/)
+* [DevWinCE blog](http://devwince.blogspot.com/)
+* [Windows Embedded Compact BSP for Raspberry Pi](https://archive.codeplex.com/?p=ceonpi)
+* [Windows Embedded Board Support Package for BeagleBone](https://archive.codeplex.com/?p=beaglebonebsp)
 
 ## Compiler
 
