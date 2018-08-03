@@ -176,6 +176,7 @@ Table of content
 
 ## Linux Programming
 
+* [Linux inside](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 * [Writing device drivers in Linux](http://freesoftwaremagazine.com/articles/drivers_linux/)
 * [YOLINUX Tutorials](http://www.yolinux.com/TUTORIALS/)
 * [Linux driver programming](https://sites.google.com/site/embedded247/ddcourse)
@@ -293,6 +294,7 @@ Table of content
 * [DirtyJTAG](https://github.com/jeanthom/DirtyJTAG) - JTAG adapter firmware for STM32F1
 * [Generic_MCU_Software_Infrastructure](https://github.com/GorgonMeducer/Generic_MCU_Software_Infrastructure) - Provide necessary software infrastructure, service, macros to support some high level abstruct concept or paradigm, such as OOPC, FSM, delegate (event-driven) and etc.
 * [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform.
+* * [A Development Environment for ARM TrustZone with GlobalPlatform Support](https://www.eit.lth.se/sprapport.php?uid=793)
 
 ## Utilities
 
