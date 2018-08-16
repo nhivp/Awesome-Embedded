@@ -225,6 +225,8 @@ Table of content
 * [tock](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers.
 * [AliOS-Things](https://github.com/alibaba/AliOS-Things) - AliOS Things released by Alibaba is an open-source implementation of operating system (OS) for Internet of Things (IoT).
 * [CoRTOS](https://forum.43oh.com/topic/13151-cortos-an-open-source-minimalist-rtos/) & [CoRTOS Simple Cooperative RTOS](https://sourceforge.net/projects/cortos-simple/) - An open source minimalist RTOS.
+* [µOS++ Reference](http://micro-os-plus.github.io/develop/references/)
+* [TNKernel](http://www.tnkernel.com/index.html) - a compact and very fast real-time kernel for the embedded 32/16/8 bits microprocessors.
 
 ## Automotive
 
