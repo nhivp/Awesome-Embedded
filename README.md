@@ -114,7 +114,9 @@ Table of content
 
 ### STM8
 
-* [TBD](#)
+* [stm8-bare-min](https://github.com/lujji/stm8-bare-min) - Tiny peripheral library for STM8S
+* [stm8-bootloader](https://github.com/lujji/stm8-bootloader) - Serial bootloader for STM8S microcontrollers
+* [stm8-multi-tasker](https://github.com/vsch/stm8-multi-tasker) - STM8-Multi-Tasker - Preemptive/Cooperative Round Robin Scheduler for STM8
 
 ### ESP8266
 
