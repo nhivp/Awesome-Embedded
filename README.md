@@ -111,6 +111,7 @@ Table of content
 * [Open source flash program for STM32 using the ST serial bootloader](https://sourceforge.net/projects/stm32flash/)
 * [stm32-hid-bootloader](https://github.com/bootsector/stm32-hid-bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X devices
 * [stm32l1xx-template](https://github.com/uctools/stm32l1xx-template) - A template for building firmware for the STM32L1xx.
+* [STM32F103C8 Examples](https://github.com/avislab/STM32F103)
 
 ### STM8
 
@@ -187,6 +188,7 @@ Table of content
 * [eBook: Linux Drivers](https://sysplay.github.io/books/LinuxDrivers/book/index.html) or [Slides: Linux Drivers](https://sysplay.in/index.php?pagefile=linux_drivers)
 * [c-periphery](https://github.com/vsergeev/c-periphery) - A C library for peripheral I/O (GPIO, SPI, I2C, MMIO, Serial) in Linux.
 * Community: [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page),
+* [Linux driver practices ](https://github.com/starnight/DriverPractice)
 
 ## Assembly
 
@@ -202,6 +204,7 @@ Table of content
 * [FreeRTOS API Reference Documentation](http://web.ist.utl.pt/~ist11993/FRTOS-API/index.html)
 * [How to Write a Small RTOS](https://larrylisky.com/2012/07/14/how-to-create-a-small-rtos/)
 * [RTOS From Scrach](https://github.com/RTOS-From-Scratch)
+* [mini-arm-os & qemu with a stm32](https://github.com/embedded2015/mini-arm-os) or [here](https://github.com/jserv/mini-arm-os) - Build a minimal multi-tasking OS kernel for ARM Cortex-M series from scratch
 * [Writing a simple operating system from scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 * [Free real-time operating system (RTOS) designed for deeply embedded applications](https://github.com/stateos/StateOS)
 * [MPSoC FreeRTOS Development](http://www.wiki.xilinx.com/MPSoC+FreeRTOS+Development)
@@ -245,6 +248,11 @@ Table of content
 * [Kernel 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 * [The little book about OS development](https://littleosbook.github.io/)
 * [TetrOS](https://github.com/daniel-e/tetros) - Tetris that fits into the boot sector.
+* [Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+* [JamesM's kernel development tutorials](http://www.jamesmolloy.co.uk/tutorial_html/)
+* [Bare Bones](https://wiki.osdev.org/Bare_Bones) - a simple kernel for 32-bit x86 and boot it.
+* [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+* [7 Steps to Writing a Simple Cooperative Scheduler](https://www.edn.com/electronics-blogs/embedded-basics/4434440/1/7-Steps-to-%20Writing-a-Simple-Cooperative-Scheduler)
 
 ## WindowCE
 
