@@ -234,6 +234,7 @@ Table of content
 * [CoRTOS](https://forum.43oh.com/topic/13151-cortos-an-open-source-minimalist-rtos/) & [CoRTOS Simple Cooperative RTOS](https://sourceforge.net/projects/cortos-simple/) - An open source minimalist RTOS.
 * [µOS++ Reference](http://micro-os-plus.github.io/develop/references/)
 * [TNKernel](http://www.tnkernel.com/index.html) - a compact and very fast real-time kernel for the embedded 32/16/8 bits microprocessors.
+* [Femto OS](http://www.femtoos.org/news.html) - a very concise portable real time - preemptive operating system (RTOS) for embedded microcontrollers with minimal ram and flash, say 2KB .. 16KB flash and 128 .. 1024 bytes ram.
 
 ## Automotive
 
