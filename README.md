@@ -112,6 +112,9 @@ Table of content
 * [stm32-hid-bootloader](https://github.com/bootsector/stm32-hid-bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X devices
 * [stm32l1xx-template](https://github.com/uctools/stm32l1xx-template) - A template for building firmware for the STM32L1xx.
 * [STM32F103C8 Examples](https://github.com/avislab/STM32F103)
+* [stm32f103](https://github.com/trebisky/stm32f103) - Bare metal programming on a generic STM32F103c8 board
+* [stm32_samples](https://github.com/dwelch67/stm32_samples)
+* [stm32f4de example code](https://github.com/dwelch67/stm32f4d)
 
 ### STM8
 
@@ -178,6 +181,7 @@ Table of content
 * [bbb-asm-demo](https://github.com/mvduin/bbb-asm-demo) - Extremely tiny baremetal application for BeagleBone Black
 * [Beaglebone - Getting started with JTAG and CCS](https://beagleboard.org/static/beaglebone/latest/Docs/ccs-jtag-simple.htm)
 * [BeagleBoardJTAG](https://elinux.org/BeagleBoardJTAG)
+* [beaglebone_samples](https://github.com/dwelch67/beaglebone_samples)
 
 ## Linux Programming
 
