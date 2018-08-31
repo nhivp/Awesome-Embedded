@@ -160,6 +160,7 @@ Table of content
 * [64 bit Bare Metal Programming on RPI-3](https://archive.fosdem.org/2017/schedule/event/programming_rpi3/attachments/slides/1475/export/events/attachments/programming_rpi3/slides/1475/bare_metal_rpi3.pdf)
 * [Raspberry Pi 3 Bare Metal](https://adamransom.github.io/posts/raspberry-pi-bare-metal-part-1.html)
 * [Assembly code for Raspberry Pi](https://github.com/Alkesst/RPIAssembly)
+* [A public Baremetal Raspberry Pi code](https://github.com/LdB-ECM/Raspberry-Pi)
 
 ## Beaglebone
 
@@ -253,6 +254,8 @@ Table of content
 * [Bare Bones](https://wiki.osdev.org/Bare_Bones) - a simple kernel for 32-bit x86 and boot it.
 * [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
 * [7 Steps to Writing a Simple Cooperative Scheduler](https://www.edn.com/electronics-blogs/embedded-basics/4434440/1/7-Steps-to-%20Writing-a-Simple-Cooperative-Scheduler)
+* [A simple OS kernel for research, teaching, and fun](https://github.com/dthain/basekernel)
+* [Operating Systems C Term 2018](https://github.com/Mcdonoughd/CS3013)
 
 ## WindowCE
 
