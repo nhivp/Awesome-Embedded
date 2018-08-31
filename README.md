@@ -274,6 +274,9 @@ Table of content
 * [ARMv7M ELF loader ](https://github.com/martinribelotta/elfloader)
 * [Writing a Bootloader Part 1](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [can-bootloader](https://github.com/cvra/can-bootloader) - The bootloader used to flash our CAN-connected boards
+* [Bootloaders 101](https://www.embedded.com/design/prototyping-and-development/4410233/1/Bootloaders-101--making-your-embedded-design-future-proof)
+* Understand boot process: [link1](https://www.beningo.com/understanding-the-microcontroller-boot-process/), [link2](https://www.beningo.com/understanding-the-microcontroller-boot-process/), [link3](https://www.eevblog.com/forum/microcontrollers/copy-data-from-rom-to-ram-and-execute/)
+* Keywords: *hello world bootloader*, *writing a bootloader from scratch*, *how to write a bootloader in assembly*, ...
 
 ## Makefile
 
