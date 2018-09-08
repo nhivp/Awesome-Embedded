@@ -71,6 +71,7 @@ Table of content
 * [MSP430-GCC](http://www.simplyembedded.org/tutorials/setting-up-a-virtual-machine/)
 * [CS4101: Introduction to Embedded Systems](http://www.cs.nthu.edu.tw/~king/courses/cs4101/2016/cs4101.html) -  The course is designed around labs, using TI MSP430 LaunchPad and Arduino Uno to discuss concepts such as basic I/O, timing and clocking, interupt handling, serial communication, embedded operating systems, synchronization, etc.
 * [msp430-template](https://github.com/uctools/msp430-template) - A template for MSP430 firmware.
+* [MSP430 reference](https://students.cs.byu.edu/~clement/cs224/references/my_references.php)
 
 ### TM4C123
 
