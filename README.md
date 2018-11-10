@@ -165,6 +165,7 @@ Table of content
 * [Raspberry Pi 3 Bare Metal](https://adamransom.github.io/posts/raspberry-pi-bare-metal-part-1.html)
 * [Assembly code for Raspberry Pi](https://github.com/Alkesst/RPIAssembly)
 * [A public Baremetal Raspberry Pi code](https://github.com/LdB-ECM/Raspberry-Pi)
+* [Raspberry-Pi Bare Metal Tutorial](https://github.com/BrianSidebotham/arm-tutorial-rpi)
 
 ## Beaglebone
 
