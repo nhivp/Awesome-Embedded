@@ -117,6 +117,9 @@ Table of content
 * [stm32_samples](https://github.com/dwelch67/stm32_samples)
 * [stm32f4de example code](https://github.com/dwelch67/stm32f4d)
 
+### STM32F7
+* [STM32F7 Series](https://www.st.com/en/microcontrollers/stm32f7-series.html?querycriteria=productId=SS1858)
+
 ### STM8
 
 * [stm8-bare-min](https://github.com/lujji/stm8-bare-min) - Tiny peripheral library for STM8S
