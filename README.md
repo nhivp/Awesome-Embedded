@@ -134,6 +134,8 @@ Table of content
 
 * [An open source bootloader for the ESP8266](https://github.com/raburton/rboot)
 * [An esp8266 rom creation tool](https://github.com/raburton/esptool2)
+* [Wi-FI ESP8266 learning journey](https://github.com/xuhongv/StudyInEsp8266)
+* [Wi-FI ESP32 learning journey](https://github.com/xuhongv/StudyInEsp32)
 
 ## Raspberry
 
