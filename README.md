@@ -172,6 +172,7 @@ Table of content
 * [Assembly code for Raspberry Pi](https://github.com/Alkesst/RPIAssembly)
 * [A public Baremetal Raspberry Pi code](https://github.com/LdB-ECM/Raspberry-Pi)
 * [Raspberry-Pi Bare Metal Tutorial](https://github.com/BrianSidebotham/arm-tutorial-rpi)
+* [uCOS-II on Raspberry Pi](https://github.com/fmlab/ucos_RaspberryPi)
 
 ## Beaglebone
 
