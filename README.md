@@ -28,6 +28,7 @@ Table of content
 * [Utilities](#utilities)
 * [Tips & tricks](#tips-&-tricks)
 * [FAQ - Embedded](#faq_embedded)
+* [Tech blogs](#tech-blogs)
 
 ## Interview
 
@@ -345,6 +346,14 @@ Table of content
 * [Vim Config for Reading Linux Kernel Source Code](https://github.com/mintisan/oh-my-vim)
 * [GNU GDB Debugger Command Cheat Sheet](http://www.yolinux.com/TUTORIALS/GDB-Commands.html)
 
+# Tech blogs
+
+* [What a C programmer should know about memory](http://marek.vavrusa.com/memory/)
+* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [What Every C Programmer Should Know About Undefined Behavior ](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html) [part 2](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html) [part 3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
+* [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
+* [Software Engineering Takeaways](https://blog.regehr.org/archives/1594)
+
 ## FAQ_Embedded
 
 * [Boot section is removed (gcc, ld, ar, as)](https://www.embeddedrelated.com/showthread/lpc2000/47841-1.php)
@@ -365,3 +374,4 @@ Table of content
 ## BOOKs
 
 * [Mastering the Raspberry Pi](http://mensshed-llandudno.co.uk/wp-content/uploads/Mastering%20the%20Raspberry%20Pi.pdf)
+* [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
