@@ -194,6 +194,7 @@ Table of content
 * [Beaglebone - Getting started with JTAG and CCS](https://beagleboard.org/static/beaglebone/latest/Docs/ccs-jtag-simple.htm)
 * [BeagleBoardJTAG](https://elinux.org/BeagleBoardJTAG)
 * [beaglebone_samples](https://github.com/dwelch67/beaglebone_samples)
+* [FreeRTOS for BeagleBone Black](https://github.com/henfos/BBBFreeRTOS)
 
 ## Linux Programming
 
