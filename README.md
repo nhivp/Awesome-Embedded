@@ -4,31 +4,42 @@ A curated list of awesome embedded resource.
 
 Table of content
 
-* [Interview](#interview)
-* [Embedded Software Skill](#embedded-software-skill)
-* [Common](#common)
-* [Microcontroller](#mcu-programming)
-  * [TM4C123](#tm4c123)
-  * [STM32](#stm32)
-  * [MSP430](#msp430)
-  * [MSP432](#msp432)
-  * [STM8](#stm8)
-* [Raspberry](#raspberry)
-* [Bealgebone](#beaglebone)
-* [Assembly](#assembly)
-* [Linux Programming](#linux-programming)
-* [RTOS](#rtos)
-* [AUTOSAR](#automotive)
-* [OS](#os)
-* [WindowCE](#windowce)
-* [Compiler](#compiler)
-* [Bootloader](#bootloader)
-* [Makefile](#makefile)
-* [Others](#ohers)
-* [Utilities](#utilities)
-* [Tips & tricks](#tips-&-tricks)
-* [FAQ - Embedded](#faq_embedded)
-* [Tech blogs](#tech-blogs)
+- [Awesome-Embedded](#awesome-embedded)
+  - [Interview](#interview)
+  - [Embedded Software Skill](#embedded-software-skill)
+  - [Common](#common)
+  - [MCU programming](#mcu-programming)
+    - [Bare-metal programming (Don't need MCU)](#bare-metal-programming-dont-need-mcu)
+    - [MSP430](#msp430)
+    - [TM4C123](#tm4c123)
+    - [MSP432](#msp432)
+    - [STM32](#stm32)
+    - [STM32F7](#stm32f7)
+    - [STM8](#stm8)
+    - [ESP8266](#esp8266)
+  - [Raspberry](#raspberry)
+  - [Beaglebone](#beaglebone)
+  - [Linux Programming](#linux-programming)
+  - [Assembly](#assembly)
+  - [RTOS](#rtos)
+  - [Automotive](#automotive)
+  - [OS](#os)
+  - [WindowCE](#windowce)
+  - [Compiler](#compiler)
+  - [Bootloader](#bootloader)
+  - [Makefile](#makefile)
+  - [Peripheral](#peripheral)
+    - [Memory Protection Unit](#memory-protection-unit)
+    - [USB](#usb)
+  - [Others](#others)
+  - [Embedded GUI Development](#embedded-gui-development)
+  - [Machine Learning & AI on MCU](#machine-learning--ai-on-mcu)
+  - [Utilities](#utilities)
+  - [Tips & tricks](#tips--tricks)
+- [Tech blogs](#tech-blogs)
+  - [FAQ_Embedded](#faqembedded)
+  - [Looking for more lists like this?](#looking-for-more-lists-like-this)
+  - [BOOKs](#books)
 
 ## Interview
 
@@ -335,7 +346,10 @@ Table of content
 
 ## Embedded GUI Development
 * [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
-*
+* [lvgl](https://littlevgl.com) - Graphics library to create an embedded GUI with easy-to-use graphical elements, beautiful visual effects and low memory footprint. It offers anti-aliasing, opacity, and animations using only one frame buffer.
+
+## Machine Learning & AI on MCU
+* [nnom](https://github.com/majianjia/nnom) - A higher-level Neural Network library for microcontrollers.
 
 ## Utilities
 
