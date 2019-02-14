@@ -351,6 +351,7 @@ Table of content
 
 ## Machine Learning & AI on MCU
 * [nnom](https://github.com/majianjia/nnom) - A higher-level Neural Network library for microcontrollers.
+* [nn4mp](https://github.com/correlllab/nn4mp)
 
 ## Utilities
 
