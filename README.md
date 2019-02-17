@@ -360,6 +360,7 @@ Table of content
 * [ARM Compute Library](https://developer.arm.com/technologies/compute-library) - Set of optimized functions for image processing, computer vision, and machine learning.
 * [uTensor](https://github.com/uTensor/uTensor) - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
 * [EmbededAI](https://github.com/boralt/EmbeddedAI) - A library that provides elements of AI to C++ applications.
+* [kann](https://github.com/attractivechaos/kann) - A lightweight C library for artificial neural networks
 
 ## Utilities
 
