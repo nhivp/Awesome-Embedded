@@ -111,7 +111,7 @@ Table of content
 
 ### STM32
 
-* [STM32 bootloader](http://ciesie.com/ks_stm32_bootloader.html)
+* [STM32 bootloader](http://ciesie.com/post/stm32_bootloader/)
 * [Tests to program STM32 Nucleo in C with GCC ARM embedded toolchain and libopencm3](https://github.com/balau/nucleo_tests)
 * [A demo project of FreeRTOS running on a STM32F4 Discovery board.](https://github.com/wangyeee/STM32F4-FreeRTOS)
 * [DFU Bootloader for STM32 chips](https://github.com/devanlai/dapboot)
