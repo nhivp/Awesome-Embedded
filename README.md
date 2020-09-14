@@ -290,7 +290,7 @@ Table of content
 * [JamesM's kernel development tutorials](http://www.jamesmolloy.co.uk/tutorial_html/)
 * [Bare Bones](https://wiki.osdev.org/Bare_Bones) - a simple kernel for 32-bit x86 and boot it.
 * [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
-* [7 Steps to Writing a Simple Cooperative Scheduler](https://www.edn.com/electronics-blogs/embedded-basics/4434440/1/7-Steps-to-%20Writing-a-Simple-Cooperative-Scheduler)
+* [7 Steps to Writing a Simple Cooperative Scheduler](https://www.edn.com/7-steps-to-writing-a-simple-cooperative-scheduler/)
 * [A simple OS kernel for research, teaching, and fun](https://github.com/dthain/basekernel)
 * [Operating Systems C Term 2018](https://github.com/Mcdonoughd/CS3013)
 
