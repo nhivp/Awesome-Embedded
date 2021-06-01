@@ -148,6 +148,8 @@ Table of content
 * [An esp8266 rom creation tool](https://github.com/raburton/esptool2)
 * [Wi-FI ESP8266 learning journey](https://github.com/xuhongv/StudyInEsp8266)
 * [Wi-FI ESP32 learning journey](https://github.com/xuhongv/StudyInEsp32)
+* [Sming - ESP8266/ESP32 IoT Framework](https://github.com/SmingHub/Sming)
+
 
 ## Raspberry
 
