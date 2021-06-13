@@ -141,6 +141,7 @@ Table of content
 * [stm8-bootloader](https://github.com/lujji/stm8-bootloader) - Serial bootloader for STM8S microcontrollers
 * [stm8-multi-tasker](https://github.com/vsch/stm8-multi-tasker) - STM8-Multi-Tasker - Preemptive/Cooperative Round Robin Scheduler for STM8
 * [Wolk STM8 stuff ](https://github.com/LonelyWolf/stm8)
+* [STM8S001J3_tiny_board](https://github.com/HexRx/STM8S001J3_tiny_board) - A tiny dev board for STM8S001J3 MCU designed in KiCad.
 
 ### ESP8266
 
