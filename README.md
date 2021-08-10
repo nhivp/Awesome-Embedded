@@ -239,7 +239,7 @@ Table of content
 
 * [List of open source real-time operating systems](https://www.osrtos.com/)
 * [ROS](http://www.ros.org/)
-* [FreeRTOS](freertos.org)
+* [FreeRTOS](https://freertos.org/)
 * [FreeRTOS - Explaination](http://www.aosabook.org/en/freertos.html)
 * [FreeRTOS API Reference Documentation](http://web.ist.utl.pt/~ist11993/FRTOS-API/index.html)
 * [How to Write a Small RTOS](https://larrylisky.com/2012/07/14/how-to-create-a-small-rtos/)
