@@ -193,6 +193,8 @@ Table of content
 * [Porting uCOSII to the raspberry pi A+/B+/2B](https://github.com/mopplayer/uCOSII_RPi)
 * [Bare-metal examples](https://github.com/mrvn/RaspberryPi-baremetal)
 * [Bare-metal lab](https://github.com/tzuCarlos/RaspberryPi)
+* [Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux {book}](https://www.wiley.com/en-us/Exploring+Raspberry+Pi%3A+Interfacing+to+the+Real+World+with+Embedded+Linux-p-9781119188681)
+* [Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux {website}](http://exploringrpi.com/)
 
 ## Beaglebone
 
