@@ -394,6 +394,7 @@ Table of content
 * [What Every C Programmer Should Know About Undefined Behavior ](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html) [part 2](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html) [part 3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
 * [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
 * [Software Engineering Takeaways](https://blog.regehr.org/archives/1594)
+* [Embedsys weekly newsletter](https://embedsysweekly.com/)
 
 ## FAQ_Embedded
 
