@@ -104,6 +104,7 @@ Table of content
 * [Stellaris_TM4C123G_GCC_Template](https://github.com/AndoniV/Stellaris_TM4C123G_GCC_Template) - Texas Instruments template project for the TM4C123 series using GNU toolchain.
 * [tm4c-gcc](https://github.com/martinjaros/tm4c-gcc) - TM4C123 GCC project template.
 * [tivaapps](https://github.com/alexeicolin/tivaapps) - Example hello-world apps for Texas Instruments TI-RTOS for Tiva C using a Linux host
+* [Drivers and examples](https://github.com/Mohammed-AhmedAF/ARM/tree/master/tiva-c) - Drivers for internal peripherals and external modules for Tiva C, examples of FreeRTOS features under development/FreeRTOS
 
 ### MSP432
 
