@@ -129,7 +129,7 @@ Table of content
 * [stm32f103](https://github.com/trebisky/stm32f103) - Bare metal programming on a generic STM32F103c8 board
 * [stm32_samples](https://github.com/dwelch67/stm32_samples)
 * [stm32f4de example code](https://github.com/dwelch67/stm32f4d)
-* [stm32f4xx with Rust at the HAL](STM32F4xx with Embedded Rust at the HAL) - A series of tutorials for building STM32F4xx applications with Rust.
+* [stm32f4xx with Rust at the HAL](https://apollolabsblog.hashnode.dev/series/stm32f4-embedded-rust-hal) - A series of tutorials for building STM32F4xx applications with Rust.
 
 ### STM32F7
 * [STM32F7 Series](https://www.st.com/en/microcontrollers/stm32f7-series.html?querycriteria=productId=SS1858)
