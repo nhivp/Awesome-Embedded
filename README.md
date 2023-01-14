@@ -339,7 +339,7 @@ Table of content
 
 ### USB
 
-* [tinyusb](https://github.com/hathach/tinyusb) - A silly USB stack for Embedded System.
+* [tinyusb](https://github.com/hathach/tinyusb) - An open source USB stack for a variety of Embedded Systems.
 
 ## Others
 
