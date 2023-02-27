@@ -318,6 +318,7 @@ Table of content
 * [Writing a boot loader in Assembly and C](https://www.codeproject.com/Articles/664165/Writing-a-boot-loader-in-Assembly-and-C-Part)
 * [Writing a Bootloader Part 3](http://3zanders.co.uk/2017/10/18/writing-a-bootloader3/)
 * [A bootloader for ARM Cortex-M based microcontrollers](https://github.com/onkwon/yaboot)
+* [OpenBLT](https://github.com/feaser/openblt) - an open source and portable bootloader for microcontrollers.
 * [ARMv7M ELF loader ](https://github.com/martinribelotta/elfloader)
 * [Writing a Bootloader Part 1](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [can-bootloader](https://github.com/cvra/can-bootloader) - The bootloader used to flash our CAN-connected boards
