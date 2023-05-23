@@ -77,6 +77,7 @@ Table of content
 ### Bare-metal programming (Don't need MCU)
 
 * [Simplest bare metal program for ARM](https://balau82.wordpress.com/2010/02/14/simplest-bare-metal-program-for-arm/) ([table of content](https://balau82.wordpress.com/arm-emulation/))
+* [Bare metal programming guide](github.com/cpq/bare-metal-programming-guide) - a detailed guide for beginners
 
 ### MSP430
 
