@@ -132,6 +132,9 @@ Table of content
 * [stm32_samples](https://github.com/dwelch67/stm32_samples)
 * [stm32f4de example code](https://github.com/dwelch67/stm32f4d)
 * [stm32f4xx with Rust at the HAL](https://apollolabsblog.hashnode.dev/series/stm32f4-embedded-rust-hal) - A series of tutorials for building STM32F4xx applications with Rust.
+* [stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner) - STM32 and nRF24L01+ based 2.4GHz RF scanner
+* [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc) - STM32 based DC-DC converter
+* [rustlink](https://github.com/gemesa/rustlink) - small set of Rust tools to program STM32 devices
 
 ### STM32F7
 * [STM32F7 Series](https://www.st.com/en/microcontrollers/stm32f7-series.html?querycriteria=productId=SS1858)
