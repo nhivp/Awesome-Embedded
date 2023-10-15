@@ -366,7 +366,7 @@ Table of content
 
 ## Embedded GUI Development
 * [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
-* [lvgl](https://littlevgl.com) - Graphics library to create an embedded GUI with easy-to-use graphical elements, beautiful visual effects and low memory footprint. It offers anti-aliasing, opacity, and animations using only one frame buffer.
+* [lvgl](https://lvgl.io/) - Graphics library to create an embedded GUI with easy-to-use graphical elements, beautiful visual effects and low memory footprint. It offers anti-aliasing, opacity, and animations using only one frame buffer.
 
 ## Machine Learning & AI on MCU
 * [nnom](https://github.com/majianjia/nnom) - A higher-level Neural Network library for microcontrollers.
