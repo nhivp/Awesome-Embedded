@@ -52,7 +52,7 @@ Table of content
 
 * [Skills/Knowledge required to become a champion Embedded Software Developer.](https://github.com/Embedded-Systems-Guide/embedded-software-skills)
 * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
-* [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+* [Programmer Competency Matrix](https://www.sijinjoseph.com/programmer-competency-matrix/)
 
 ## Common
 
