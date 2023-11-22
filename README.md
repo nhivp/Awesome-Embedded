@@ -384,6 +384,7 @@ Table of content
 * [lm4tools](https://github.com/utzig/lm4tools)
 * [mspdebug](https://github.com/dlbeer/mspdebug) - Debugging tool for MSP430 MCUs
 * [pycs](https://github.com/deadsy/pycs) - Python Based ARM CoreSight Debug and Trace Tools
+* [NaiveSystems Analyze](https://github.com/naivesystems/analyze) - Static Analysis Tool for Code Security and Compliance
 
 ## Tips & tricks
 
