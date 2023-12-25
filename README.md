@@ -236,6 +236,7 @@ Table of content
 * [Start linux kernel module development!](https://rayanfam.com/topics/start-linux-kernel-module-development/)
 * [Minimal Linux Live](https://github.com/ivandavidov/minimal) - a tiny educational Linux distribution
 * [low-level programming university #linux-kernel-and-device-driver](https://github.com/gurugio/lowlevelprogramming-university#linux-kernel-and-device-driver)
+* [Yocto Project](https://www.yoctoproject.org/) - Create custom Linux-based systems regardless of the hardware architecture.
 * [Buildroot](https://buildroot.org/) - Simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
 
 ## Assembly
