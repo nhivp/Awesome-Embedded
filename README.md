@@ -49,7 +49,7 @@ Table of content
 
 ## Embedded Software Skill
 
-* [Skills/Knowledge required to become a champion Embedded Software Developer.](https://github.com/Embedded-Systems-Guide/embedded-software-skills)
+* [16 Essential Skills for Embedded Engineer](https://swedishembedded.com/insights-build-embedded-systems/)
 * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
 * [Programmer Competency Matrix](https://www.sijinjoseph.com/programmer-competency-matrix/)
 
