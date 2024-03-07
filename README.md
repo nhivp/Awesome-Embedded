@@ -365,6 +365,7 @@ Table of content
 * [Generic_MCU_Software_Infrastructure](https://github.com/GorgonMeducer/Generic_MCU_Software_Infrastructure) - Provide necessary software infrastructure, service, macros to support some high level abstruct concept or paradigm, such as OOPC, FSM, delegate (event-driven) and etc.
 * [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform.
 * * [A Development Environment for ARM TrustZone with GlobalPlatform Support](https://www.eit.lth.se/sprapport.php?uid=793)
+* [A C++ template library for embedded applications](https://github.com/ETLCPP/etl)
 
 ## Embedded GUI Development
 * [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
