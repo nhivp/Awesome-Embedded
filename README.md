@@ -74,6 +74,10 @@ Table of content
 
 ## MCU programming
 
+### General
+
+* [McuOnEclipse](https://mcuoneclipse.com) - Everything about Eclipse, microcontrollers, software and tools.
+
 ### Bare-metal programming (Don't need MCU)
 
 * [Simplest bare metal program for ARM](https://balau82.wordpress.com/2010/02/14/simplest-bare-metal-program-for-arm/) ([table of content](https://balau82.wordpress.com/arm-emulation/))
