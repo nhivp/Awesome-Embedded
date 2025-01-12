@@ -290,7 +290,7 @@ Table of content
 * [µOS++ Reference](http://micro-os-plus.github.io/develop/references/)
 * [TNKernel](http://www.tnkernel.com/index.html) - a compact and very fast real-time kernel for the embedded 32/16/8 bits microprocessors.
 * [Femto OS](http://www.femtoos.org/news.html) - a very concise portable real time - preemptive operating system (RTOS) for embedded microcontrollers with minimal ram and flash, say 2KB .. 16KB flash and 128 .. 1024 bytes ram.
-
+*[Kernel 0]([http://wwww.kernel0.org]) - a deterministic real-time kernel for ARMv7M. O(1) RMS scheduler, timers, memory allocator and inter-task communication.
 ## Automotive
 
 * [Sample Source: Trampoline is a static RTOS for small embedded systems.](https://github.com/TrampolineRTOS/trampoline) & [labs](http://www.irccyn.ec-nantes.fr/~bechenne/trampoline-labs/)
