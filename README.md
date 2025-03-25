@@ -373,6 +373,7 @@ Table of content
 * * [A Development Environment for ARM TrustZone with GlobalPlatform Support](https://www.eit.lth.se/sprapport.php?uid=793)
 * [A C++ template library for embedded applications](https://github.com/ETLCPP/etl)
 * [Embedded rework of C++ STL](https://github.com/malachi-iot/estdlib) - `basic_string`, `basic_ostream` etc. leaned way down.  Cross platform (including AVR).
+* [RAMEN 🍜](https://github.com/Zubax/ramen) - flow-based programming implemented in a simple single-header unopinionated library.
 
 ## Embedded GUI Development
 * [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
