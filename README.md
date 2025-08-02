@@ -70,6 +70,7 @@ Table of content
 * [Embedded Software _ Getting started](http://www2.thu.edu.tw/~emtools/DOE_project/NCCU/embedded%20system/ESD_06_GettingStarted.pdf)
 * [How to convert from an armlink scatter file to a GNU ld linker script](https://www.mayrhofer.eu.org/node/24)
 * [Using the GNU Linker](https://www.math.utah.edu/docs/info/ld_3.html)
+* [Everything You Never Wanted To Know About Linker Script](https://mcyoung.xyz/2021/06/01/linker-script/)
 * [Modern Embedded Systems Programming Course](https://github.com/QuantumLeaps/modern-embedded-programming-course) - Learn from the basics to modern embedded programming practice.
 
 ## MCU programming
