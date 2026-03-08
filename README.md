@@ -208,6 +208,7 @@ Table of content
 * [Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux {book}](https://www.wiley.com/en-us/Exploring+Raspberry+Pi%3A+Interfacing+to+the+Real+World+with+Embedded+Linux-p-9781119188681)
 * [Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux {website}](http://exploringrpi.com/)
 * [Writing a "bare metal" operating system for Raspberry Pi 4](https://github.com/babbleberry/rpi4-osdev)
+* [PiSpot-Show](https://github.com/GeiserX/PiSpot-Show) - A Raspberry Pi captive portal that creates a WiFi hotspot displaying a customizable web page to connected users using hostapd, dnsmasq, and nginx.
 
 ## Beaglebone
 
