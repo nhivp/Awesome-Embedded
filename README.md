@@ -40,6 +40,7 @@ Table of content
   - [FAQ_Embedded](#faqembedded)
   - [Looking for more lists like this?](#looking-for-more-lists-like-this)
   - [BOOKs](#books)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for embedded systems monitoring, multi-agent infrastructure orchestration, and automated device management. MIT licensed.
 
 ## Interview
 
