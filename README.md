@@ -393,6 +393,7 @@ Table of content
 * [EmbededAI](https://github.com/boralt/EmbeddedAI) - A library that provides elements of AI to C++ applications.
 * [kann](https://github.com/attractivechaos/kann) - A lightweight C library for artificial neural networks.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool which allows to transpile trained classic ML models into a native code of various programming languages with zero dependencies including C.
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ## Utilities
 
