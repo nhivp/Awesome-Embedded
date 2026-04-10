@@ -53,6 +53,7 @@ Table of content
 * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
 * [Programmer Competency Matrix](https://www.sijinjoseph.com/programmer-competency-matrix/)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=nhivp_Awesome-Embedded) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Common
 
 * [Integer size in C on 32-bit and 64-bit system](https://usrmisc.wordpress.com/2012/12/27/integer-sizes-in-c-on-32-bit-and-64-bit-linux/)
