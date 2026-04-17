@@ -84,6 +84,7 @@ Table of content
 * [Simplest bare metal program for ARM](https://balau82.wordpress.com/2010/02/14/simplest-bare-metal-program-for-arm/) ([table of content](https://balau82.wordpress.com/arm-emulation/))
 * [Bare metal programming guide](https://github.com/cpq/bare-metal-programming-guide) - a detailed guide for beginners
 * [Real-Time C++](https://github.com/ckormanyos/real-time-cpp) - companion bare-metal code to Real-Time C++ book.
+* [hypervisor](https://github.com/willamhou/hypervisor) - ARM64 Type-1 bare-metal hypervisor in no_std Rust, runs at EL2 on QEMU virt, boots Linux with FF-A v1.1 SPMC.
 
 ### MSP430
 
