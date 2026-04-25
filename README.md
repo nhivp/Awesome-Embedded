@@ -88,7 +88,7 @@ Table of content
 ### MSP430
 
 * [MSP430-GCC](http://www.simplyembedded.org/tutorials/setting-up-a-virtual-machine/)
-* [CS4101: Introduction to Embedded Systems](http://www.cs.nthu.edu.tw/~king/courses/cs4101/2016/cs4101.html) -  The course is designed around labs, using TI MSP430 LaunchPad and Arduino Uno to discuss concepts such as basic I/O, timing and clocking, interupt handling, serial communication, embedded operating systems, synchronization, etc.
+* [CS4101: Introduction to Embedded Systems](http://www.cs.nthu.edu.tw/~king/courses/cs4101/2016/cs4101.html) -  The course is designed around labs, using TI MSP430 LaunchPad and Arduino Uno to discuss concepts such as basic I/O, timing and clocking, interrupt handling, serial communication, embedded operating systems, synchronization, etc.
 * [msp430-template](https://github.com/uctools/msp430-template) - A template for MSP430 firmware.
 * [MSP430 reference](https://students.cs.byu.edu/~clement/cs224/references/my_references.php)
 
@@ -129,7 +129,7 @@ Table of content
 * [A tiny portable 3D graphics lib for micro controllers (Oled display)](https://github.com/avem-labs/ol3d)
 * [Getting started with the STM32F4-Discovery board using the EmBitz IDE](https://github.com/RoanFourie/STM32F4-DISCO-EMBITZ-Blinky)
 * [libopencm3 and FreeRTOS projects using the STM32F103C8T6 MCU](https://github.com/ve3wwg/stm32f103c8t6)
-* [A template for builting STM23F0 ARM projects with GCC](https://github.com/szczys/stm32f0-discovery-basic-template)
+* [A template for building STM32F0 ARM projects with GCC](https://github.com/szczys/stm32f0-discovery-basic-template)
 * [Open source flash program for STM32 using the ST serial bootloader](https://sourceforge.net/projects/stm32flash/)
 * [stm32-hid-bootloader](https://github.com/bootsector/stm32-hid-bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X devices
 * [stm32l1xx-template](https://github.com/uctools/stm32l1xx-template) - A template for building firmware for the STM32L1xx.
@@ -173,7 +173,7 @@ Table of content
 * [Open Projects: Raspberry, Beaglebone BSP](https://devel.rtems.org/wiki/Developer/OpenProjects)
 * [A Real-Time Operating System on the Raspberry Pi](http://www.pebblebay.com/raspberry-pi-embedded/)
 * [A port of FreeRTOS to the raspberry pi](https://github.com/jameswalmsley/RaspberryPi-FreeRTOS)
-* [FreeRTOS Sucessfully Ported](https://www.raspberrypi.org/forums/viewtopic.php?f=72&t=22423)
+* [FreeRTOS Successfully Ported](https://www.raspberrypi.org/forums/viewtopic.php?f=72&t=22423)
 * [Exploring AArch64 assembler - Raspberry](https://thinkingeek.com/2016/10/08/exploring-aarch64-assembler-chapter1/)
 * [A bootloader for the Raspberry Pi using the ethernet device](https://github.com/Nvreformat/Etherboot)
 * [Bare Metal Raspberry Pi](https://taylorpetrick.com/blog/post/bare-metal-pi-setup)
@@ -258,10 +258,10 @@ Table of content
 * [List of open source real-time operating systems](https://www.osrtos.com/)
 * [ROS](http://www.ros.org/)
 * [FreeRTOS](https://freertos.org/)
-* [FreeRTOS - Explaination](http://www.aosabook.org/en/freertos.html)
+* [FreeRTOS - Explanation](http://www.aosabook.org/en/freertos.html)
 * [FreeRTOS API Reference Documentation](http://web.ist.utl.pt/~ist11993/FRTOS-API/index.html)
 * [How to Write a Small RTOS](https://larrylisky.com/2012/07/14/how-to-create-a-small-rtos/)
-* [RTOS From Scrach](https://github.com/RTOS-From-Scratch)
+* [RTOS From Scratch](https://github.com/RTOS-From-Scratch)
 * [mini-arm-os & qemu with a stm32](https://github.com/embedded2015/mini-arm-os) or [here](https://github.com/jserv/mini-arm-os) - Build a minimal multi-tasking OS kernel for ARM Cortex-M series from scratch
 * [Writing a simple operating system from scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 * [Free real-time operating system (RTOS) designed for deeply embedded applications](https://github.com/stateos/StateOS)
@@ -293,7 +293,7 @@ Table of content
 * [TNKernel](http://www.tnkernel.com/index.html) - a compact and very fast real-time kernel for the embedded 32/16/8 bits microprocessors.
 * [Femto OS](http://www.femtoos.org/news.html) - a very concise portable real time - preemptive operating system (RTOS) for embedded microcontrollers with minimal ram and flash, say 2KB .. 16KB flash and 128 .. 1024 bytes ram.
 * [Real-Time Kernel '0'](https://github.com/antoniogiacomelli/RK0) - A lean, highly deterministic, low-latency real-time kernel for ARMv6/7M.
-  
+
 ## Automotive
 
 * [Sample Source: Trampoline is a static RTOS for small embedded systems.](https://github.com/TrampolineRTOS/trampoline) & [labs](http://www.irccyn.ec-nantes.fr/~bechenne/trampoline-labs/)
@@ -371,7 +371,7 @@ Table of content
 * [Advanced fault backtrace library for ARM Cortex-M series MCU](https://github.com/armink/CmBacktrace)
 * [mcu-starter-projects](https://github.com/ataradov/mcu-starter-projects) - Simple starter projects for bare-metal MCU development.
 * [DirtyJTAG](https://github.com/jeanthom/DirtyJTAG) - JTAG adapter firmware for STM32F1
-* [Generic_MCU_Software_Infrastructure](https://github.com/GorgonMeducer/Generic_MCU_Software_Infrastructure) - Provide necessary software infrastructure, service, macros to support some high level abstruct concept or paradigm, such as OOPC, FSM, delegate (event-driven) and etc.
+* [Generic_MCU_Software_Infrastructure](https://github.com/GorgonMeducer/Generic_MCU_Software_Infrastructure) - Provide necessary software infrastructure, service, macros to support some high level abstract concept or paradigm, such as OOPC, FSM, delegate (event-driven) and etc.
 * [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform.
 * * [A Development Environment for ARM TrustZone with GlobalPlatform Support](https://www.eit.lth.se/sprapport.php?uid=793)
 * [A C++ template library for embedded applications](https://github.com/ETLCPP/etl)
@@ -435,7 +435,7 @@ Table of content
 * [Curated List of Self-Driving Cars and Autonomous Vehicles Resources](https://github.com/takeitallsource/awesome-autonomous-vehicles)
 * [awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems)
 * [awesome-cheat-sheets](https://github.com/mintisan/awesome-cheat-sheets) - Awesome Cheat Sheets for Developer Utility, like Git, Vim, Tmux, Sublime Text, Markdown, Shell.
-* [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming languague.
+* [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language.
 * [theEmbeddedNewTestament.github.io](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io)
 
 ## BOOKs
@@ -443,3 +443,13 @@ Table of content
 * [Mastering the Raspberry Pi](http://web.archive.org/web/20190713103510/http://mensshed-llandudno.co.uk/wp-content/uploads/Mastering%20the%20Raspberry%20Pi.pdf)
 * [Modern C](http://web.archive.org/web/20190219172719/http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 * [An Embedded Software Primer](https://archive.org/details/embeddedsoftware00davi)
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
+- Fork the repository
+- Create your feature branch (`git checkout -b feature/amazing-feature`)
+- Commit your changes (`git commit -m 'Add amazing feature'`)
+- Push to the branch (`git push origin feature/amazing-feature`)
+- Open a Pull Request
