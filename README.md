@@ -445,6 +445,7 @@ Table of content
 * [Mastering the Raspberry Pi](http://web.archive.org/web/20190713103510/http://mensshed-llandudno.co.uk/wp-content/uploads/Mastering%20the%20Raspberry%20Pi.pdf)
 * [Modern C](http://web.archive.org/web/20190219172719/http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 * [An Embedded Software Primer](https://archive.org/details/embeddedsoftware00davi)
+* [Embedded Software with Rust](https://www.manning.com/books/embedded-software-with-rust)
 
 ## Contributing
 
