@@ -132,6 +132,7 @@ Table of content
 * [libopencm3 and FreeRTOS projects using the STM32F103C8T6 MCU](https://github.com/ve3wwg/stm32f103c8t6)
 * [A template for building STM32F0 ARM projects with GCC](https://github.com/szczys/stm32f0-discovery-basic-template)
 * [Open source flash program for STM32 using the ST serial bootloader](https://sourceforge.net/projects/stm32flash/)
+* [Standalone TCP/IP stack for STM32, bare metal or RTOS](https://github.com/cesanta/mongoose)
 * [stm32-hid-bootloader](https://github.com/bootsector/stm32-hid-bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X devices
 * [stm32l1xx-template](https://github.com/uctools/stm32l1xx-template) - A template for building firmware for the STM32L1xx.
 * [STM32F103C8 Examples](https://github.com/avislab/STM32F103)
