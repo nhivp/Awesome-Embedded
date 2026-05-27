@@ -399,6 +399,7 @@ Table of content
 
 ## Utilities
 
+* [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual embedded hardware with CI/CD integration.
 * [lm4tools](https://github.com/utzig/lm4tools)
 * [mspdebug](https://github.com/dlbeer/mspdebug) - Debugging tool for MSP430 MCUs
 * [pycs](https://github.com/deadsy/pycs) - Python Based ARM CoreSight Debug and Trace Tools
