@@ -411,6 +411,7 @@ Table of content
 * [MemBrowse](https://membrowse.com) - Memory footprint tracking for ELF binaries with CLI and CI integration to monitor flash/RAM usage across commits.
 * [aem-modbus-simulator](https://github.com/leaberg69/aem-modbus-simulator) - Open-source Python Modbus RTU/TCP slave simulator emulating an industrial DC voltage monitor (147 holding registers, 6 baudrates). Lets SCADA/PLC firmware engineers test Modbus integration in CI pipelines without physical hardware on the bench.
 * [memprobe.dev](https://memprobe.dev) - ELF firmware analysis as a web app, CLI, and GitHub Action. Break down flash and RAM usage by section, file, library, and symbol, compare builds, track project history and memory growth over time, and set CI size budgets.
+* [Velxio](https://velxio.dev) - Fully local, open source Arduino simulator with real AVR8, RP2040 and ESP32 emulation, a visual circuit canvas and an in-browser code editor. Runs in the browser or self-hosted via Docker.
 
 ## Tips & tricks
 
