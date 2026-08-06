@@ -428,6 +428,7 @@ Table of content
 * [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
 * [Software Engineering Takeaways](https://blog.regehr.org/archives/1594)
 * [Embedsys weekly newsletter](https://embedsysweekly.com/)
+* [EdgeLog](https://edgelog.dev/) - Embedded and edge AI engineering notes, with measurements from running LLMs and agents against real hardware.
 
 ## FAQ_Embedded
 
