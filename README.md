@@ -398,6 +398,7 @@ Table of content
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool which allows to transpile trained classic ML models into a native code of various programming languages with zero dependencies including C.
 * [nn2](https://github.com/facex-engine/facex/tree/master/nn2) - Tiny zero-dependency neural network inference engine in pure C with hand-written SIMD kernels (AVX-512 / AVX2 / NEON). Runs the FaceX face recognition stack on Apple Silicon, ARM SBCs and ESP32-P4. Apache 2.0.
 * [edge-agents (ForestHub)](https://github.com/ForestHubAI/edge-agents) - Open-source (AGPL-3.0) 30 MB AI agent runtime for edge devices. Offline by default; GPIO/UART/MQTT as first-class nodes; local SLMs alongside cloud LLMs. Runs on Raspberry Pi 5, Jetson Orin Nano, STM32MP25, ctrlX CORE.
+* [voicute](https://github.com/voicute/onnx-wakeword) - Lightweight keyword spotting and wake word detection engine for ESP32 with INT8 quantization (~74KB per keyword), multi-language support including Chinese, and cross-platform ONNX Runtime inference.
 
 ## Utilities
 
