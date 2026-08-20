@@ -143,6 +143,7 @@ Table of content
 * [stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner) - STM32 and nRF24L01+ based 2.4GHz RF scanner
 * [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc) - STM32 based DC-DC converter
 * [rustlink](https://github.com/gemesa/rustlink) - small set of Rust tools to program STM32 devices
+* [non-blocking-ds18B20-driver-for-stm32f103c8t6](https://github.com/a5021/non-blocking-ds18B20-driver-for-stm32f103c8t6) - Bare-metal, register-level DS18B20 (1-Wire) temperature driver for STM32 (STM32F103C8T6); hardware-timed (TIM1+DMA), non-blocking, interrupt-free, RTOS-agnostic, minimal CPU overhead.
 
 ### STM32F7
 * [STM32F7 Series](https://www.st.com/en/microcontrollers/stm32f7-series.html?querycriteria=productId=SS1858)
