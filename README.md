@@ -144,6 +144,8 @@ Table of content
 * [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc) - STM32 based DC-DC converter
 * [rustlink](https://github.com/gemesa/rustlink) - small set of Rust tools to program STM32 devices
 
+* [SD Card OVID Player](https://github.com/akasa828/SD_Card_OVID_Player) - STM32F103 SD card frame-video player for SSD1306/SH1106 OLED, with FatFs file browsing and a Windows media converter.
+
 ### STM32F7
 * [STM32F7 Series](https://www.st.com/en/microcontrollers/stm32f7-series.html?querycriteria=productId=SS1858)
 * [STM32 eLinux](https://elinux.org/STM32)
