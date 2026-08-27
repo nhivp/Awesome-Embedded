@@ -416,6 +416,7 @@ Table of content
 * [memprobe.dev](https://memprobe.dev) - ELF firmware analysis as a web app, CLI, and GitHub Action. Break down flash and RAM usage by section, file, library, and symbol, compare builds, track project history and memory growth over time, and set CI size budgets.
 * [SiliconRig](https://siliconrig.dev) - Cloud-hosted embedded boards (ESP32-S3, STM32, RP2350) for remote flashing, serial console, and hardware-in-the-loop testing in CI. Open-source CLI, Python SDK, and GitHub Action.
 * [Velxio](https://velxio.dev) - Fully local, open source Arduino simulator with real AVR8, RP2040 and ESP32 emulation, a visual circuit canvas and an in-browser code editor. Runs in the browser or self-hosted via Docker.
+* - [I2C Address Lookup & Compatibility Checker](https://embeddednerd.com/tools/i2c-address-lookup/) - Free web tool to look up common I2C device addresses (Arduino, ESP32, Raspberry Pi) and check multiple sensors/displays for address conflicts before wiring them to the same bus.
 
 ## Tips & tricks
 
