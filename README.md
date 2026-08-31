@@ -143,6 +143,7 @@ Table of content
 * [stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner) - STM32 and nRF24L01+ based 2.4GHz RF scanner
 * [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc) - STM32 based DC-DC converter
 * [rustlink](https://github.com/gemesa/rustlink) - small set of Rust tools to program STM32 devices
+* [Nyas - An Android STM32 Flasher] (https://play.google.com/store/apps/details?id=com.slis.nyas) - Android app to turn your phone into an STM32 Flasher.
 
 ### STM32F7
 * [STM32F7 Series](https://www.st.com/en/microcontrollers/stm32f7-series.html?querycriteria=productId=SS1858)
