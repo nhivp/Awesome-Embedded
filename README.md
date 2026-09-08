@@ -423,6 +423,7 @@ Table of content
 * [SiliconRig](https://siliconrig.dev) - Cloud-hosted embedded boards (ESP32-S3, STM32, RP2350) for remote flashing, serial console, and hardware-in-the-loop testing in CI. Open-source CLI, Python SDK, and GitHub Action.
 * [Velxio](https://velxio.dev) - Fully local, open source Arduino simulator with real AVR8, RP2040 and ESP32 emulation, a visual circuit canvas and an in-browser code editor. Runs in the browser or self-hosted via Docker.
 * [BARR-C Enforcement Kit](https://github.com/netrinomike/barr-c) - Drop-in clang-format and clang-tidy configurations, compiler warning gates, a one-command conformance check and ready-made CI enforcing BARR-C, Barr Group's Embedded C Coding Standard for firmware.
+- [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
 
 ## Tips & tricks
 
