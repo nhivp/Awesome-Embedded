@@ -409,6 +409,7 @@ Table of content
 
 * [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual embedded hardware with CI/CD integration.
 * [flashgate](https://github.com/Lion-1209/flashgate) - Hardware-in-the-loop verification gate for AI coding agents: build, flash over ST-Link, then assert the board's boot banner, SWD RAM signature and console-probe register readbacks before "done" is accepted. Ships as a Claude Code plugin (Stop hook + MCP server).
+* [platformio.mcp](https://github.com/powerdragonfire/platformio.mcp) - MCP server that lets AI coding agents (Claude Code, Cursor, Codex) drive PlatformIO: build with parsed compiler errors, flash-then-verify against the serial boot log, ESP32 / Cortex-M crash backtrace decoding to file:line, firmware size reports, Unity tests and static analysis. Python, installs with `uvx platformio.mcp`.
 * [lm4tools](https://github.com/utzig/lm4tools)
 * [EmbedEval](https://github.com/Ecro/embedeval) - Benchmark that measures how well LLMs write embedded firmware. 233 cases across Zephyr, ESP-IDF, STM32 HAL, FreeRTOS, Linux drivers and Yocto, verified through static checks, SDK compilation, runtime execution and mutation testing.
 * [mspdebug](https://github.com/dlbeer/mspdebug) - Debugging tool for MSP430 MCUs
