@@ -431,6 +431,7 @@ Table of content
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
+* [CircuitPilot](https://github.com/Abdelhayali/CircuitPilot) - Open-source AI copilot for PCB design: picks real JLCPCB/LCSC parts, builds the schematic, places and autoroutes 2-layer boards with DRC, exports Gerbers and generates 3D-printable enclosures. Runs in the browser at [pcbgo.site](https://pcbgo.site); MCP server for Claude Code.
 
 ## Tips & tricks
 
