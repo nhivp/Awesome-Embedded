@@ -384,6 +384,7 @@ Table of content
 * [A C++ template library for embedded applications](https://github.com/ETLCPP/etl)
 * [Embedded rework of C++ STL](https://github.com/malachi-iot/estdlib) - `basic_string`, `basic_ostream` etc. leaned way down.  Cross platform (including AVR).
 * [RAMEN 🍜](https://github.com/Zubax/ramen) - flow-based programming implemented in a simple single-header unopinionated library.
+* [sbc.compare](https://sbc.compare/) - Searchable database of 120+ single board computers (Raspberry Pi, Radxa, Orange Pi, RISC-V and more), each benchmarked in-house for CPU, storage, GPU, power draw and thermals, with side-by-side comparisons.
 
 ## Embedded GUI Development
 * [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
