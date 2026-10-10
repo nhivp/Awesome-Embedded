@@ -429,6 +429,7 @@ Table of content
 * [BARR-C Enforcement Kit](https://github.com/netrinomike/barr-c) - Drop-in clang-format and clang-tidy configurations, compiler warning gates, a one-command conformance check and ready-made CI enforcing BARR-C, Barr Group's Embedded C Coding Standard for firmware.
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
+* [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
 
 ## Tips & tricks
 
