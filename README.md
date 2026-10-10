@@ -306,6 +306,7 @@ Table of content
 * [Sample source: An integration an example AUTOSAR project which every part in AUTOSAR (OS, RTE, BSW, MCAL) are collected from different open source.](https://github.com/leduynguyen/My_AUTOSAR_Project)
 * [automotive software(OSEK & AUTOSAR) ](https://github.com/parai/as) - Because I am not powerful so I decided to develop tiny but smart part of automotive software based on open source, and create a general AUTOSAR & Automotive Software study environment.
 * [BlackFlag ECU](https://github.com/bad-antics/blackflag-ecu) - Automotive CAN bus security testing and analysis tool for ECU research, fuzzing, and reverse engineering of vehicle communication protocols.
+* [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) - Tesla CAN bus toolkit for Flipper Zero (MCP2515 over SPI) and ESP32 (TWAI or MCP2515), with candump-format CAN capture, a live BMS dashboard, and read-modify-retransmit frame handlers for Model 3/Y/S/X.
 
 ## OS
 
