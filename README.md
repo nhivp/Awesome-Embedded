@@ -306,6 +306,7 @@ Table of content
 * [Sample source: An integration an example AUTOSAR project which every part in AUTOSAR (OS, RTE, BSW, MCAL) are collected from different open source.](https://github.com/leduynguyen/My_AUTOSAR_Project)
 * [automotive software(OSEK & AUTOSAR) ](https://github.com/parai/as) - Because I am not powerful so I decided to develop tiny but smart part of automotive software based on open source, and create a general AUTOSAR & Automotive Software study environment.
 * [BlackFlag ECU](https://github.com/bad-antics/blackflag-ecu) - Automotive CAN bus security testing and analysis tool for ECU research, fuzzing, and reverse engineering of vehicle communication protocols.
+* [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) - Tesla CAN bus toolkit for Flipper Zero (MCP2515 over SPI) and ESP32 (TWAI or MCP2515), with candump-format CAN capture, a live BMS dashboard, and read-modify-retransmit frame handlers for Model 3/Y/S/X.
 
 ## OS
 
@@ -384,6 +385,7 @@ Table of content
 * [A C++ template library for embedded applications](https://github.com/ETLCPP/etl)
 * [Embedded rework of C++ STL](https://github.com/malachi-iot/estdlib) - `basic_string`, `basic_ostream` etc. leaned way down.  Cross platform (including AVR).
 * [RAMEN 🍜](https://github.com/Zubax/ramen) - flow-based programming implemented in a simple single-header unopinionated library.
+* [sbc.compare](https://sbc.compare/) - Searchable database of 120+ single board computers (Raspberry Pi, Radxa, Orange Pi, RISC-V and more), each benchmarked in-house for CPU, storage, GPU, power draw and thermals, with side-by-side comparisons.
 
 ## Embedded GUI Development
 * [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
@@ -424,6 +426,7 @@ Table of content
 * [Velxio](https://velxio.dev) - Fully local, open source Arduino simulator with real AVR8, RP2040 and ESP32 emulation, a visual circuit canvas and an in-browser code editor. Runs in the browser or self-hosted via Docker.
 * [BARR-C Enforcement Kit](https://github.com/netrinomike/barr-c) - Drop-in clang-format and clang-tidy configurations, compiler warning gates, a one-command conformance check and ready-made CI enforcing BARR-C, Barr Group's Embedded C Coding Standard for firmware.
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
+* [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 
 ## Tips & tricks
 
