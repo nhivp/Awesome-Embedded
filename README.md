@@ -253,6 +253,7 @@ Table of content
 * [low-level programming university #linux-kernel-and-device-driver](https://github.com/gurugio/lowlevelprogramming-university#linux-kernel-and-device-driver)
 * [Yocto Project](https://www.yoctoproject.org/) - Create custom Linux-based systems regardless of the hardware architecture.
 * [Buildroot](https://buildroot.org/) - Simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
+* [Kernel Field Guide](https://github.com/UtsavBalar1231/kernel-development-skills) - AI coding agent skill for Linux kernel driver, devicetree, debugging, and patch submission workflows.
 
 ## Assembly
 
