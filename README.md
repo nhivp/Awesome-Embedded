@@ -431,6 +431,7 @@ Table of content
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
+* [fwsbom](https://github.com/chen-embedded/fwsbom) - Open-source CycloneDX SBOM generator for bare-metal and RTOS C firmware. Reads versions from vendored FreeRTOS, ThreadX, Mbed TLS, lwIP, MCUboot and STM32Cube sources and uses the linker map to list only components linked into the image.
 
 ## Tips & tricks
 
