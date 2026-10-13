@@ -388,6 +388,7 @@ Table of content
 * [sbc.compare](https://sbc.compare/) - Searchable database of 120+ single board computers (Raspberry Pi, Radxa, Orange Pi, RISC-V and more), each benchmarked in-house for CPU, storage, GPU, power draw and thermals, with side-by-side comparisons.
 
 * [Handshaked UDP](https://github.com/kewl-ua/handshaked_udp) - POSIX C library for embedded Linux applications exchanging UDP data through CGNAT, with keep-alives, connection migration and automatic reconnection.
+* [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent) - ESP32-S3 Arduino firmware that turns the board into a USB HID mouse and keyboard taking line commands over Wi-Fi, so an AI vision model can operate a real iPhone.
 
 ## Embedded GUI Development
 * [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
