@@ -431,6 +431,7 @@ Table of content
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
+* [SheetsData](https://sheetsdata.com) - Hosted MCP server that gives AI agents (Claude, Cursor, Copilot, Codex) electronic component datasheets: pinouts, specs, package info and design checks from manufacturer PDFs, plus part search across JLCPCB, Mouser and DigiKey. Pay per call, free to start; [client configs](https://github.com/octoco-ltd/sheetsdata-mcp) are MIT.
 
 ## Tips & tricks
 
