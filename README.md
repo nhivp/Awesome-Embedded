@@ -431,6 +431,7 @@ Table of content
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
+* [Firmpath](https://www.firmpath.dev/) - Vulnerability monitoring for MCU firmware: reads a build's SBOM or PlatformIO/west manifest, resolves the SDK (ESP-IDF, Zephyr, nRF Connect SDK, STM32Cube, Silicon Labs) into the libraries it bundles, and checks each against chip vendors' own security advisories, NVD, OSV and CISA KEV. Free for one product; [public reports](https://app.firmpath.dev/reports) on open-source firmware such as WLED and Tasmota.
 
 ## Tips & tricks
 
