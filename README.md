@@ -431,6 +431,7 @@ Table of content
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
+* [LegacyMind](https://www.legacymind.de/en/formats) - Hosted firmware analysis for device makers. Upload a Keil, IAR or GNU Arm ELF/AXF or an embedded Linux image and get the libraries built in with their versions (for example CMSIS packs, RTX5, FreeRTOS, lwIP, mbedTLS, STM32Cube), known vulnerabilities, hardening checks and embedded keys, exported as a CycloneDX or SPDX SBOM. Commercial, free check for one file.
 
 ## Tips & tricks
 
