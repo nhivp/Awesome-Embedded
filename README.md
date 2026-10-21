@@ -364,6 +364,7 @@ Table of content
 ### USB
 
 * [tinyusb](https://github.com/hathach/tinyusb) - An open source USB stack for a variety of Embedded Systems.
+* [usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Reverse engineers USB devices from captures of their Windows vendor app (usbmon/USBPcap): infers the protocol with frame-level evidence and generates a Python pyusb driver for Linux.
 
 ## Others
 
