@@ -435,6 +435,7 @@ Table of content
 ## Tips & tricks
 
 * [Awesome Cheat Sheets](https://github.com/mintisan/awesome-cheat-sheets/blob/master/README.md)
+* [Embedded & Hardware Engineering Handbook](https://github.com/X3lyz3/embedded-engineering-handbook) - Zero-fluff reference guide and cheatsheets for Op-Amps, MCU strapping pins, and Linux debugging.
 > Awesome Cheat Sheets for Developer Utility, like Git, Vim , Tmux, SublimeText, Markdown, Shell.
 
 * [Vim Config for Reading Linux Kernel Source Code](https://github.com/mintisan/oh-my-vim)
