@@ -388,6 +388,7 @@ Table of content
 * [sbc.compare](https://sbc.compare/) - Searchable database of 120+ single board computers (Raspberry Pi, Radxa, Orange Pi, RISC-V and more), each benchmarked in-house for CPU, storage, GPU, power draw and thermals, with side-by-side comparisons.
 
 * [Handshaked UDP](https://github.com/kewl-ua/handshaked_udp) - POSIX C library for embedded Linux applications exchanging UDP data through CGNAT, with keep-alives, connection migration and automatic reconnection.
+* [AI, Robotics and Embedded Jobs](https://github.com/landedjobs/ai-robotics-and-embedded-jobs) - Open embedded firmware, robotics, perception and autonomy roles, refreshed every 2 days with links to each employer's posting.
 
 ## Embedded GUI Development
 * [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
