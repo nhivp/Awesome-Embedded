@@ -431,6 +431,7 @@ Table of content
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
+* [Fieldhand](https://fieldhand.dev/) - Remote shell, port forwarding and health for Linux devices behind 4G, CGNAT or firewalls. Static Go agent (no libc) with one outbound connection on 443; open-source agent (Apache-2.0), hosted server. Free for 5 devices.
 
 ## Tips & tricks
 
