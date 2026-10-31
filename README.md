@@ -431,6 +431,7 @@ Table of content
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
+* [LabWired](https://github.com/w1ne/labwired-core) - Deterministic firmware simulator for ARM Cortex-M, RISC-V and selected ESP32/Xtensa targets. Runs an unmodified ELF on a modeled board (peripherals, sensors, displays), with UART, GPIO and bus traces, YAML test scripts with JUnit output for CI, GDB/VS Code debugging, and an MCP server for AI agents. Written in Rust, MIT.
 
 ## Tips & tricks
 
