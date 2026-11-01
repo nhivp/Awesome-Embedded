@@ -392,6 +392,7 @@ Table of content
 ## Embedded GUI Development
 * [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
 * [lvgl](https://lvgl.io/) - Graphics library to create an embedded GUI with easy-to-use graphical elements, beautiful visual effects and low memory footprint. It offers anti-aliasing, opacity, and animations using only one frame buffer.
+* [RV565](https://github.com/elixpo/rv565) - Video playback library and file format for microcontroller SPI displays (ST7789); 24 FPS with zero missed frames on the ESP32-S3 via dual-core decoding and DMA. Arduino, ESP-IDF and Pico SDK.
 
 ## Machine Learning & AI on MCU
 * [nnom](https://github.com/majianjia/nnom) - A higher-level Neural Network library for microcontrollers.
