@@ -476,7 +476,6 @@ Table of content
 * [Embedded Software with Rust](https://www.manning.com/books/embedded-software-with-rust)
 -  [Beyond the Sketch: Building Real ESP32 Firmware, One Task at a Time](https://tailoredread.com/book/beyond-sketch-building-real-esp32-firmware-42bb3db9caf7) - Free complete book on ESP32 firmware with FreeRTOS, written with AI. Read online or download the PDF or EPUB.
 
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
