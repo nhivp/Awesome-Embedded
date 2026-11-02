@@ -474,6 +474,8 @@ Table of content
 * [Modern C](http://web.archive.org/web/20190219172719/http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 * [An Embedded Software Primer](https://archive.org/details/embeddedsoftware00davi)
 * [Embedded Software with Rust](https://www.manning.com/books/embedded-software-with-rust)
+-  [Beyond the Sketch: Building Real ESP32 Firmware, One Task at a Time](https://tailoredread.com/book/beyond-sketch-building-real-esp32-firmware-42bb3db9caf7) - Free complete book on ESP32 firmware with FreeRTOS, written with AI. Read online or download the PDF or EPUB.
+
 
 ## Contributing
 
