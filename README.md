@@ -388,6 +388,7 @@ Table of content
 * [sbc.compare](https://sbc.compare/) - Searchable database of 120+ single board computers (Raspberry Pi, Radxa, Orange Pi, RISC-V and more), each benchmarked in-house for CPU, storage, GPU, power draw and thermals, with side-by-side comparisons.
 
 * [Handshaked UDP](https://github.com/kewl-ua/handshaked_udp) - POSIX C library for embedded Linux applications exchanging UDP data through CGNAT, with keep-alives, connection migration and automatic reconnection.
+* [Ohmlark](https://ohmlark.com) - Free browser calculators for embedded hardware work: LED and divider resistors with E-series rounding, battery runtime from sleep/active current, 555 timer, RC/LC and IPC-2221 trace width.
 
 ## Embedded GUI Development
 * [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
