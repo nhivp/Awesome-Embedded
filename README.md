@@ -299,6 +299,7 @@ Table of content
 * [TNKernel](http://www.tnkernel.com/index.html) - a compact and very fast real-time kernel for the embedded 32/16/8 bits microprocessors.
 * [Femto OS](http://www.femtoos.org/news.html) - a very concise portable real time - preemptive operating system (RTOS) for embedded microcontrollers with minimal ram and flash, say 2KB .. 16KB flash and 128 .. 1024 bytes ram.
 * [Real-Time Kernel '0'](https://github.com/antoniogiacomelli/RK0) - A lean, highly deterministic, low-latency real-time kernel for ARMv6/7M.
+* [CMRX real-time OS](https://github.com/ventZl/cmrx) - A compact memory-protected microkernel-based RTOS for ARMv6M/7M/8M, RISC-V and hosted POSIX emulation.
 
 ## Automotive
 
