@@ -431,6 +431,7 @@ Table of content
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
+* [Hex Viewer for VS Code](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-hex-viewer) - Hex viewer and editor for firmware images and other binary files of 4 GB and more, with go to offset, hex search, a data inspector and a byte-by-byte compare of two files.
 
 ## Tips & tricks
 
