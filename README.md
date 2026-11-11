@@ -388,6 +388,7 @@ Table of content
 * [sbc.compare](https://sbc.compare/) - Searchable database of 120+ single board computers (Raspberry Pi, Radxa, Orange Pi, RISC-V and more), each benchmarked in-house for CPU, storage, GPU, power draw and thermals, with side-by-side comparisons.
 
 * [Handshaked UDP](https://github.com/kewl-ua/handshaked_udp) - POSIX C library for embedded Linux applications exchanging UDP data through CGNAT, with keep-alives, connection migration and automatic reconnection.
+* [First Board Bring-Up Checklist](https://github.com/Westlake-Systems/hardware-checklists/blob/main/checklists/board-bring-up.md) - Preparation, inspection, first power, clocks, debug, peripherals, RF, and power checks for a new board.
 
 ## Embedded GUI Development
 * [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
