@@ -408,6 +408,7 @@ Table of content
 * [edge-agents (ForestHub)](https://github.com/ForestHubAI/edge-agents) - Open-source (AGPL-3.0) 30 MB AI agent runtime for edge devices. Offline by default; GPIO/UART/MQTT as first-class nodes; local SLMs alongside cloud LLMs. Runs on Raspberry Pi 5, Jetson Orin Nano, STM32MP25, ctrlX CORE.
 * [TiGrIS](https://tigris-ml.dev) - Ahead-of-time compiler that tiles ONNX models to fit microcontrollers with fixed RAM and flash budgets, executed by a dependency-free C runtime.
 * [voicute](https://github.com/voicute/onnx-wakeword) - Lightweight keyword spotting and wake word detection engine for ESP32 with INT8 quantization (~74KB per keyword), multi-language support including Chinese, and cross-platform ONNX Runtime inference.
+* [tinymind](https://github.com/danmcleran/tinymind) - C++14 template library for neural networks on microcontrollers: fixed-point training on the device, int8 inference with PyTorch and ONNX importers, no heap allocation.
 
 ## Utilities
 
