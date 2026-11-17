@@ -168,6 +168,7 @@ Table of content
 * [Wi-FI ESP8266 learning journey](https://github.com/xuhongv/StudyInEsp8266)
 * [Wi-FI ESP32 learning journey](https://github.com/xuhongv/StudyInEsp32)
 * [Sming - ESP8266/ESP32 IoT Framework](https://github.com/SmingHub/Sming)
+* [NLTP](https://github.com/indian-aman/NLTP-Arduino) - Zero-malloc, zero-float ANSI C99 wireless transport for ESP32, ESP8266, and bare-metal MCUs (`4,760 B` static RAM) with X25519/ChaCha20-Poly1305 AEAD, LZ4 compression, and GF(2^8) Cauchy forward error correction over ESP-NOW and UDP.
 
 
 ## Raspberry
