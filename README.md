@@ -47,6 +47,7 @@ Table of content
 * [Interview Questions Archive by Company](https://docs.google.com/document/d/1uW030FMfBxKLxXz-eIwyzlMJdERN5DMEwtUnJMYsF-g/edit?usp=sharing)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 * [EA-SKILL](https://github.com/jzl-maker/EA-SKILL)
+* [OhmWork: embedded C interview practice on a simulated STM32](https://ohmwork.io/?utm_source=github&utm_medium=referral&utm_campaign=202611&utm_content=awesome-embedded)
 
 ## Embedded Software Skill
 
