@@ -411,6 +411,7 @@ Table of content
 
 ## Utilities
 
+* [ic-stm32-decoder](https://github.com/lijianan659-lang/ic-stm32-decoder) - Zero-dependency CLI and library (Node.js/Python) to decode STM32 ordering part numbers, IC date codes, and SMD top markings from manufacturer datasheets.
 * [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual embedded hardware with CI/CD integration.
 * [flashgate](https://github.com/Lion-1209/flashgate) - Hardware-in-the-loop verification gate for AI coding agents: build, flash over ST-Link, then assert the board's boot banner, SWD RAM signature and console-probe register readbacks before "done" is accepted. Ships as a Claude Code plugin (Stop hook + MCP server).
 * [platformio.mcp](https://github.com/powerdragonfire/platformio.mcp) - MCP server that lets AI coding agents (Claude Code, Cursor, Codex) drive PlatformIO: build with parsed compiler errors, flash-then-verify against the serial boot log, ESP32 / Cortex-M crash backtrace decoding to file:line, firmware size reports, Unity tests and static analysis. Python, installs with `uvx platformio.mcp`.
