@@ -431,6 +431,7 @@ Table of content
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
+* [MCUcraft](https://mcucraft.com) - AI that designs an ESP32 or STM32 device from a text description: parts list with distributor prices, schematic, KiCad PCB and firmware. The firmware is compiled and run on a PC against test scenarios built from the user's requirements, and each project shows the verdict. Free tier, web app.
 
 ## Tips & tricks
 
