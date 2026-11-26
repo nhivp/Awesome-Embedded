@@ -408,6 +408,7 @@ Table of content
 * [edge-agents (ForestHub)](https://github.com/ForestHubAI/edge-agents) - Open-source (AGPL-3.0) 30 MB AI agent runtime for edge devices. Offline by default; GPIO/UART/MQTT as first-class nodes; local SLMs alongside cloud LLMs. Runs on Raspberry Pi 5, Jetson Orin Nano, STM32MP25, ctrlX CORE.
 * [TiGrIS](https://tigris-ml.dev) - Ahead-of-time compiler that tiles ONNX models to fit microcontrollers with fixed RAM and flash budgets, executed by a dependency-free C runtime.
 * [voicute](https://github.com/voicute/onnx-wakeword) - Lightweight keyword spotting and wake word detection engine for ESP32 with INT8 quantization (~74KB per keyword), multi-language support including Chinese, and cross-platform ONNX Runtime inference.
+* [LinnetTTS](https://github.com/VoxRT/LinnetTTS) - On-device streaming text-to-speech, ~41M params (31.5M LM + 9.9M decoder), 83 MB fp16 weights. 75% RTF on Raspberry Pi Zero 2 W (Cortex-A53, 4 threads); also runs on iPhone, Android, Linux desktop. Rust runtime with Android/iOS/Linux/Python bindings. Apache-2.0 code + custom weights license (free commercial use for built-in voices).
 
 ## Utilities
 
