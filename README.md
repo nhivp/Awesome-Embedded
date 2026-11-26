@@ -429,6 +429,7 @@ Table of content
 * [Velxio](https://velxio.dev) - Fully local, open source Arduino simulator with real AVR8, RP2040 and ESP32 emulation, a visual circuit canvas and an in-browser code editor. Runs in the browser or self-hosted via Docker.
 * [BARR-C Enforcement Kit](https://github.com/netrinomike/barr-c) - Drop-in clang-format and clang-tidy configurations, compiler warning gates, a one-command conformance check and ready-made CI enforcing BARR-C, Barr Group's Embedded C Coding Standard for firmware.
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
+* [RavomIO](https://github.com/Ravomi/RavomIO) - Rust-powered cross-platform embedded & FPGA development workbench (`egui` + `probe-rs`) with 2,340+ boards, `platformio.ini` migration, RTT waveform plotting, and a built-in MCP server for HIL & PID tuning.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
 
