@@ -363,6 +363,7 @@ Table of content
 
 ### USB
 
+* [Bus Scope](https://hannes-software.com/bus-scope/) - Local-first desktop USB protocol analyzer for Linux `usbmon` and Windows `USBPcap` captures with device tree decoding, descriptor inspection, and HID/transfer filtering (free Community Edition).
 * [tinyusb](https://github.com/hathach/tinyusb) - An open source USB stack for a variety of Embedded Systems.
 
 ## Others
