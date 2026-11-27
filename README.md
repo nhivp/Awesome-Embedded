@@ -431,6 +431,7 @@ Table of content
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
+* [SerialBot](https://github.com/jerry-token/serialbot) - Cross-platform serial, TCP and UDP debugging assistant (desktop app and terminal) with timestamps, HEX, live plots, scripted send/expect, XMODEM/YMODEM firmware send to bootloaders, and a built-in MCP server so AI coding agents can read device logs and talk to boards.
 
 ## Tips & tricks
 
