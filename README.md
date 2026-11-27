@@ -431,6 +431,7 @@ Table of content
 * [CavalloCode](https://github.com/Cavallo-Enterprises/CavalloCode) - Open-source desktop IDE for embedded development with Arduino, ESP32, and Raspberry Pi Pico extensions, local PlatformIO builds, and an integrated serial monitor and plotter.
 * [Zelos](https://zeloscloud.io) - Zelos is a data platform for hardware systems.
 * [testium](https://github.com/testium-HIL/testium) - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
+* [FlashKit IEEE 754 Converter](https://www.flashkit.tools/tool/ieee-754-converter/) - Browser tool to turn a float32/float64 into bits and hex and back (8 hex digits = float32, 16 = float64), with the exact stored decimal and rounding error. Runs locally, no sign-up.
 
 ## Tips & tricks
 
